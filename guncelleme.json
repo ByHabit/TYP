@@ -1,6 +1,6 @@
 {
-    "surum":  "4.5.1",
-    "notlar":  "Güncelleme test",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.5.1/TYP_v4.5.1.zip",
-    "sha256":  "822249ce17d0470086b859b171ab3a872a79cd206507108954eaa4ea4fb7fe85"
+    "surum":  "4.5.2",
+    "notlar":  "Ayarlarda VeriTabanı sekmesinde iyileştirme yapıldı, düzeltilecek bir hata bulamadım :)",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.5.2/TYP_v4.5.2.zip",
+    "sha256":  "276740348cef56b731c8312f7bcbb1ab26d6a374162583136bb9f06fd7170e99"
 }
