@@ -1,6 +1,6 @@
 {
-    "surum":  "4.7.1",
-    "notlar":  "\"Personel: izin bakiyesi, belge yönetimi, ücret geçmişi, toplu zam/prim, özet pano\\\\nStok: satın alma listesi, tedarikçi fiyat geçmişi, stok panosu, çoklu fotoğraf\\\\nYENİ: Hızlı Satış Ekranı - barkod ile anında satış\\\\nPuantaj hakediş hesap hatası düzeltildi\\\\nKasa/arşiv çift kayıt sorunu kalıcı çözüldü\",",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.7.1/TYP_v4.7.1.zip",
-    "sha256":  "57168ddc8975950c00ba40ef7d98c2cddc94d191e155c5a68cf9d6cd62c901bc"
+    "surum":  "4.7.2",
+    "notlar":  "personel maaş hesabında puantaj getirince yeni başlayan ve işten ayrılan personelin başlangıç ve çıkış tarihlerini baz amadan ay hesabı yapıyordu. bu sorun düzeltildi. bir önceki versiyonda zaten personel bölümünde büyük iyileştirmeler olmuştu.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.7.2/TYP_v4.7.2.zip",
+    "sha256":  "61a1acd1d2a5b4cda315d992421a647cc7429ebabc3bbc609b3c7ec00141a575"
 }
