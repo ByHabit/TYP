@@ -1,0 +1,11 @@
+{
+  "abonelikler": [
+    {
+      "musteri": "ÖRNEK — Test Firma",
+      "anahtarHash": "BU_ALANA_PROGRAM_URETTIGI_HASH_GELECEK",
+      "baslangic": "2026-07-15",
+      "bitis": "2027-07-15",
+      "durum": "aktif"
+    }
+  ]
+}
