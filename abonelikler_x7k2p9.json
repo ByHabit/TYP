@@ -1,12 +1,6 @@
 {
-  "abonelikler": [
-    {
-      "musteri": "Emre PUNAR EMRE BILGISAYAR",
-      "anahtarHash": "0B034783AF74AF338C9A4B220C96C6E1BE9B72DABFC241564338BF943D135A3E",
-      "baslangic": "2026-07-15",
-      "bitis": "2027-07-15",
-      "durum": "aktif"
-    },
+  "abonelikler":
+  [
     {
       "musteri": "Aytekin GÜNEL - AYTEK BİLİŞİM",
       "anahtarHash": "2E4C820259ED78F684F264D107EACBFA81482EFC6AB6C0A568B06067286636EA",
