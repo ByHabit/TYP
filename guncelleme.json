@@ -1,6 +1,6 @@
 {
-    "surum":  "4.7.2",
-    "notlar":  "personel maaş hesabında puantaj getirince yeni başlayan ve işten ayrılan personelin başlangıç ve çıkış tarihlerini baz amadan ay hesabı yapıyordu. bu sorun düzeltildi. bir önceki versiyonda zaten personel bölümünde büyük iyileştirmeler olmuştu.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.7.2/TYP_v4.7.2.zip",
-    "sha256":  "61a1acd1d2a5b4cda315d992421a647cc7429ebabc3bbc609b3c7ec00141a575"
+    "surum":  "4.8.0",
+    "notlar":  "Program Artık Abonelik sistemine geçmiştir, Bundan Sonra Program Abonelik sistemi ile çalışacaktır, Ama merak etmeyin daha önceden Lisans satın alanlar mevcut lisansınızı algılayacaktır ve sizin bilgisayarınızda sınırsız lisans olacaktır. donanım değişikliği veya sistem kurulumu gibi işlemler yaparsanız lisansınız Devredışı kalır.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.8.0/TYP_v4.8.0.zip",
+    "sha256":  "1ac62fded13112db24c6c7d890e7a43a95363520ff5809abb6447512f9f50eba"
 }
