@@ -1,6 +1,6 @@
 {
-    "surum":  "4.8.1",
-    "notlar":  "Abonelik bitiş hatırlatması, açılışta otomatik güncelleme kontrolü, lisans ekranında görsel değişiklik, hızlı satış ekranı ve kasa yeni işlemde ortak varsayılan cari seçimi eklendi",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.8.1/TYP_v4.8.1.zip",
-    "sha256":  "934cc037662d09e327a5454df257b9b09ef76c6a16b5848ec28924596f60d911"
+    "surum":  "4.9.0",
+    "notlar":  "Yeni Barkod \u0026 QR Modülü (barkod etiket tasarımı, QR oluşturucu, stok entegrasyonu, oluşturduğunuz barkodu herhangi bir stok ürününe entegre edebilme.)",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.9.0/TYP_v4.9.0.zip",
+    "sha256":  "f77d736ca3c7862f8ed8a2d5ae58dc881bc7175d346bce2c3cf53207777f94f1"
 }
