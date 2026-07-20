@@ -14,6 +14,13 @@
       "baslangic": "2026-07-16",
       "bitis": "2027-07-16",
       "durum": "aktif"
+    },
+    {
+      "musteri": "KANO DENİZCİLİK",
+      "anahtarHash": "50F9D5E3CC1651E36BE49FA8BCF498326A38AF064A1ED3DCBEC9BA3C858DF7E3",
+      "baslangic": "2026-07-20",
+      "bitis": "2027-07-20",
+      "durum": "aktif"
     }
   ]
 }
