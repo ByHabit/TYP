@@ -24,11 +24,14 @@
                         {
                             "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
                             "baslangic":  "2026-07-21",
-                            "bitis":  "2026-08-21",
+                            "bitis":  "2099-12-31",
                             "durum":  "aktif",
-                            "anahtarHash":  "AEBFB2D21322231A07495D490A4640986CCBC582DAE2DA29784907876EB49920",
+                            "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
                             "telefon":  "0 543 288 2976",
-                            "not":  "GEÇİCİ LİSANS"
+                            "not":  "",
+                            "cihazlar":  [
+                                             "AF848297"
+                                         ]
                         }
                     ]
 }
