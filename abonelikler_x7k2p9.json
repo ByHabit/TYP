@@ -7,10 +7,28 @@
                             "durum":  "aktif",
                             "anahtarHash":  "2DBBE58D8277341F464711BA715A9C52959AA8391E85C0EB57FCB5351223CC20",
                             "telefon":  "0 543 288 29 76",
-                            "not":  "I TECH IN",
+                            "not":  "TESTER",
                             "cihazlar":  [
                                              "36A67B5C"
                                          ]
+                        },
+                        {
+                            "musteri":  "KANO DENİZCİLİK",
+                            "baslangic":  "2026-07-21",
+                            "bitis":  "2027-07-21",
+                            "durum":  "aktif",
+                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
+                            "telefon":  "0 543 903 37 62",
+                            "not":  "RECEP TUNA KARGI"
+                        },
+                        {
+                            "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
+                            "baslangic":  "2026-07-21",
+                            "bitis":  "2026-08-21",
+                            "durum":  "aktif",
+                            "anahtarHash":  "AEBFB2D21322231A07495D490A4640986CCBC582DAE2DA29784907876EB49920",
+                            "telefon":  "0 543 288 2976",
+                            "not":  "GEÇİCİ LİSANS"
                         }
                     ]
 }
