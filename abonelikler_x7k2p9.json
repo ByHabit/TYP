@@ -2,11 +2,16 @@
   "abonelikler":
   [
     {
-      "musteri": "Aytekin GÜNEL - AYTEK BİLİŞİM",
-      "anahtarHash": "2E4C820259ED78F684F264D107EACBFA81482EFC6AB6C0A568B06067286636EA",
-      "baslangic": "2026-07-16",
-      "bitis": "2026-11-16",
-      "durum": "aktif"
+                            "musteri":  "Aytekin GÜNEL - AYTEK BİLİŞİM",
+                            "baslangic":  "2026-07-21",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "2DBBE58D8277341F464711BA715A9C52959AA8391E85C0EB57FCB5351223CC20",
+                            "telefon":  "0 543 288 29 76",
+                            "not":  "TESTER",
+                            "cihazlar":  [
+                                             "36A67B5C"
+                                         ]
     },
     {
       "musteri": "Emre PUNAR - EMRE BİLGİSAYAR",
