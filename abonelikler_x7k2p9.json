@@ -1,18 +1,6 @@
 {
     "abonelikler":  [
                         {
-                            "musteri":  "Aytekin GÜNEL - AYTEK BİLİŞİM",
-                            "baslangic":  "2026-07-21",
-                            "bitis":  "2099-12-31",
-                            "durum":  "aktif",
-                            "anahtarHash":  "2DBBE58D8277341F464711BA715A9C52959AA8391E85C0EB57FCB5351223CC20",
-                            "telefon":  "0 543 288 29 76",
-                            "not":  "I TECH IN",
-                            "cihazlar":  [
-                                             "36A67B5C"
-                                         ]
-                        },
-                        {
                             "musteri":  "KANO DENİZCİLİK",
                             "baslangic":  "2026-07-21",
                             "bitis":  "2027-07-21",
@@ -31,6 +19,18 @@
                             "not":  "",
                             "cihazlar":  [
                                              "AF848297"
+                                         ]
+                        },
+                        {
+                            "musteri":  "AYTEK BILISIM",
+                            "baslangic":  "2026-07-22",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "C6A615DE1B3FADFA6F9735AAA48B68DB0A040B96E74B89CACF41A3AEA55FF920",
+                            "telefon":  "05307887194",
+                            "not":  "ITECHIN",
+                            "cihazlar":  [
+                                             "1F568745"
                                          ]
                         }
                     ]
