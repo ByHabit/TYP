@@ -5,7 +5,9 @@
                             "baslangic":  "2026-07-21",
                             "bitis":  "2027-07-21",
                             "durum":  "aktif",
-                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6"
+                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
+                            "telefon":  "",
+                            "not":  ""
                         },
                         {
                             "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
@@ -13,6 +15,8 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
+                            "telefon":  "",
+                            "not":  "",
                             "cihazlar":  [
                                              "AF848297"
                                          ]
@@ -23,6 +27,8 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "C6A615DE1B3FADFA6F9735AAA48B68DB0A040B96E74B89CACF41A3AEA55FF920",
+                            "telefon":  "",
+                            "not":  "",
                             "cihazlar":  [
                                              "1F568745"
                                          ]
@@ -32,7 +38,9 @@
                             "baslangic":  "2026-07-23",
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
-                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A"
+                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
+                            "telefon":  "",
+                            "not":  ""
                         }
                     ]
 }
