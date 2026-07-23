@@ -6,8 +6,8 @@
                             "bitis":  "2027-07-21",
                             "durum":  "aktif",
                             "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
-                            "telefon":  "",
-                            "not":  ""
+                            "telefon":  "0 543 903 37 62",
+                            "not":  "RECEP TUNA KARGI"
                         },
                         {
                             "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
@@ -15,7 +15,7 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
-                            "telefon":  "",
+                            "telefon":  "0 543 288 2976",
                             "not":  "",
                             "cihazlar":  [
                                              "AF848297"
@@ -39,8 +39,8 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
-                            "telefon":  "",
-                            "not":  ""
+                            "telefon":  "0 537 513 22 05",
+                            "not":  "ALPCAN AKINTÜRK"
                         }
                     ]
 }
