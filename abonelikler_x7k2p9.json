@@ -41,6 +41,15 @@
                             "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
                             "telefon":  "0 537 513 22 05",
                             "not":  "ALPCAN AKINTÜRK"
+                        },
+                        {
+                            "musteri":  "deneme",
+                            "baslangic":  "2026-07-23",
+                            "bitis":  "2027-07-23",
+                            "durum":  "aktif",
+                            "anahtarHash":  "A4FF059CA4AA9B15B8A5EE8E39AC066066F617A06DAED0188E17A59ADB052745",
+                            "telefon":  "",
+                            "not":  ""
                         }
                     ]
 }
