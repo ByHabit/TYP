@@ -1,6 +1,6 @@
 {
-    "surum":  "4.9.1",
-    "notlar":  "Performans iyileştirmeleri, görsel menü ve ikonların yenilenmesi ayarlar menüsü dikey yapı oldu. programda sürüm notları kısmından detaylı değişiklikleri görebilirsiniz.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.9.1/TYP_v4.9.1.zip",
-    "sha256":  "f556f1fbd2eef8dfd35e1c62a7c2fd4147dc5207affe2ae48a4a455c73c45b47"
+    "surum":  "4.9.2",
+    "notlar":  "ağ senkronizasyon kapsamı genişletildi, kasa ve cari işlemlerde açıklama kısmı genişletildi ve enter ile alt satıra geçiliyor, e-posta ve whatsapp bağlantı penceresi kaldırıldı direk ön izlemeden pdf üretip istenen yere sürükleyebilirsiniz, teklif ve proforma kopyalama seçeneği geldi.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.9.2/TYP_v4.9.2.zip",
+    "sha256":  "70702495f687e84c1e247799cfbaeaaf27f3ed22c85f035abf25fde6cce2c983"
 }
