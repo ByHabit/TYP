@@ -32,6 +32,15 @@
                             "cihazlar":  [
                                              "1F568745"
                                          ]
+                        },
+                        {
+                            "musteri":  "ONASAN MAKİNA İMALAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+                            "baslangic":  "2026-07-23",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
+                            "telefon":  "0 537 513 22 05",
+                            "not":  "ALPCAN AKINTÜRK"
                         }
                     ]
 }
