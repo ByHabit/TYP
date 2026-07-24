@@ -1,6 +1,6 @@
 {
     "surum":  "4.9.2",
-    "notlar":  "ağ senkronizasyon kapsamı genişletildi, kasa ve cari işlemlerde açıklama kısmı genişletildi ve enter ile alt satıra geçiliyor, e-posta ve whatsapp bağlantı penceresi kaldırıldı direk ön izlemeden pdf üretip istenen yere sürükleyebilirsiniz, teklif ve proforma kopyalama seçeneği geldi.",
+    "notlar":  "v.4.9.2\\\u0027de ağ senkronizasyon kapsamı genişletildi, kasa ve cari işlemlerde açıklama kısmı genişletildi ve enter ile alt satıra geçiliyor, e-posta ve whatsapp bağlantı penceresi kaldırıldı direk ön izlemeden pdf üretip istenen yere sürükleyebilirsiniz, teklif ve proforma kopyalama seçeneği geldi.",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.9.2/TYP_v4.9.2.zip",
-    "sha256":  "70702495f687e84c1e247799cfbaeaaf27f3ed22c85f035abf25fde6cce2c983"
+    "sha256":  "bac85744da484a69aa10e5a6c16060aa7d3a39158f802fc6fd523d68ff72c042"
 }
