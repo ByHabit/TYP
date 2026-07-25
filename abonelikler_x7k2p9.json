@@ -41,6 +41,18 @@
                             "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
                             "telefon":  "0 537 513 22 05",
                             "not":  "ALPCAN AKINTÜRK"
+                        },
+                        {
+                            "musteri":  "GÖKSAL AKÇAY",
+                            "baslangic":  "2026-07-25",
+                            "bitis":  "2027-01-25",
+                            "durum":  "aktif",
+                            "anahtarHash":  "0C723773C592D1B1EDA7BA4DD720ECAB0180B425DD1EC3A680E557C98F2075B9",
+                            "telefon":  "0 505 495 42 83",
+                            "not":  "",
+                            "cihazlar":  [
+                                             "97831730"
+                                         ]
                         }
                     ]
 }
