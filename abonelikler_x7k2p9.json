@@ -62,6 +62,24 @@
                             "anahtarHash":  "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
                             "telefon":  "0 539 731 44 36",
                             "not":  "HARUN KARABAĞ"
+                        },
+                        {
+                            "musteri":  "RFK MUHENDİSLİK TİC LTD ŞTİ",
+                            "baslangic":  "2026-07-26",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "AFC52F84E2F7D47710724637B13804215C11095A8D73AAC741780AA69B66DBAE",
+                            "telefon":  "0 535 765 40 00",
+                            "not":  "TAMER SARI"
+                        },
+                        {
+                            "musteri":  "ALP37 KURUMSAL TEDARİK",
+                            "baslangic":  "2026-07-26",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "FC056E6D89D2C5EE4B44101641484259D90C8FE1552A570218F6D971A1B11C7F",
+                            "telefon":  "0 532 447 00 37",
+                            "not":  "MUHAMMER BEKLEVİÇ"
                         }
                     ]
 }
