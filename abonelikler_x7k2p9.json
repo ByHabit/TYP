@@ -80,6 +80,18 @@
                             "anahtarHash":  "FC056E6D89D2C5EE4B44101641484259D90C8FE1552A570218F6D971A1B11C7F",
                             "telefon":  "0 532 447 00 37",
                             "not":  "MUHAMMER BEKLEVİÇ"
+                        },
+                        {
+                            "musteri":  "KARASU ARZUM KIRTASİYE SAN.TİC. LTD. ŞTİ.",
+                            "baslangic":  "2026-07-26",
+                            "bitis":  "2027-01-26",
+                            "durum":  "aktif",
+                            "anahtarHash":  "CCA4DE3613D5BE3EEFD3728BA0828D9760193313A6C14CC53D7FC9A6DF7DDAA5",
+                            "telefon":  "0 530 828 36 93",
+                            "not":  "MUSTAFA MARANGOZ",
+                            "cihazlar":  [
+                                             "FA87497F"
+                                         ]
                         }
                     ]
 }
