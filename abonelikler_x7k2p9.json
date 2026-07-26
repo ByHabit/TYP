@@ -15,7 +15,7 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
-                            "telefon":  "0 543 288 2976",
+                            "telefon":  "0 543 288 29 76",
                             "not":  "",
                             "cihazlar":  [
                                              "AF848297"
@@ -53,6 +53,15 @@
                             "cihazlar":  [
                                              "97831730"
                                          ]
+                        },
+                        {
+                            "musteri":  "SERTUHAN ENDÜSTRİYEL HAVALANDIRMA VE İZOLASYON SAN.TİC.A.S.",
+                            "baslangic":  "2026-07-26",
+                            "bitis":  "2099-12-31",
+                            "durum":  "aktif",
+                            "anahtarHash":  "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
+                            "telefon":  "0 539 731 44 36",
+                            "not":  "HARUN KARABAĞ"
                         }
                     ]
 }
