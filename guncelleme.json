@@ -1,6 +1,6 @@
 {
-    "surum":  "4.9.3",
-    "notlar":  "Arayüz-Tüm modüllerde butonlar yenilendi, ağda senkronda dolu bir bilgiyi boş bir değerin ezmesi problemi düzeltildi.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.9.3/TYP_v4.9.3.zip",
-    "sha256":  "7b895e19f9e548ab5428b87a088cf0a34a440f4d254b92b736d980d721806d80"
+    "surum":  "4.10.0",
+    "notlar":  "v4.10: Banka modulu (hareketler, virman, ekstre), kasada Havale/EFT tutarinin bankaya islenmesi, Muhasebeci Paketi ile donemsel dokum hazirlama, Hizli Satista Odeme Alinmadi secenegi ve senkronda veri/ayar ayrimi.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.0/TYP_v4.10.0.zip",
+    "sha256":  "819c20ddae8dc23f00d0fd0cb2de7f0f6a261180e985c471348bd03bf59f4e5c"
 }
