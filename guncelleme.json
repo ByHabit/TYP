@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.0",
-    "notlar":  "v4.10: Banka modulu (hareketler, virman, ekstre), kasada Havale/EFT tutarinin bankaya islenmesi, Muhasebeci Paketi ile donemsel dokum hazirlama, Hizli Satista Odeme Alinmadi secenegi ve senkronda veri/ayar ayrimi.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.0/TYP_v4.10.0.zip",
-    "sha256":  "819c20ddae8dc23f00d0fd0cb2de7f0f6a261180e985c471348bd03bf59f4e5c"
+    "surum":  "4.10.1",
+    "notlar":  "v4.10.1: Banka modulune ekstre ice aktarma eklendi. Internet subesinden indirdiginiz CSV veya Excel dosyasini toplu aktarabilir, kolonlari eslestirebilirsiniz. Daha once aktarilmis ve elle girilmis kayitlar isaretlenir, mukerrer kayit olusmaz.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.1/TYP_v4.10.1.zip",
+    "sha256":  "f527a091df90c480bc755821c5f66d9a4ea4a36e25f9bac5347477cd4f7c75e9"
 }
