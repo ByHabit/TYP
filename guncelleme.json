@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.1",
-    "notlar":  "v4.10.1: Banka modulune ekstre ice aktarma eklendi. Internet subesinden indirdiginiz CSV veya Excel dosyasini toplu aktarabilir, kolonlari eslestirebilirsiniz. Daha once aktarilmis ve elle girilmis kayitlar isaretlenir, mukerrer kayit olusmaz.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.1/TYP_v4.10.1.zip",
-    "sha256":  "f527a091df90c480bc755821c5f66d9a4ea4a36e25f9bac5347477cd4f7c75e9"
+    "surum":  "4.10.2",
+    "notlar":  "Hızlı Satış ekranı güncellendi ve yeni özellikler eklendi, Serbest metin girişlerinde araya nokta atma sorunu tespit edildi ve düzeltildi bu sorunun tespiti için ( Sertuhan Endüstriyel Havalandırma ve İzolasyon SAN. TİC. A.Ş )\u0027 ye teşekkürler, Etiket modülü eklendi henüz iskelet aşamasında geliştiriliyor.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.2/TYP_v4.10.2.zip",
+    "sha256":  "d10de1ed5492b4f39e8f89bea947a056c279b937a0dab96f168ad97e3e1573fd"
 }
