@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.2",
-    "notlar":  "Hızlı Satış ekranı güncellendi ve yeni özellikler eklendi, Serbest metin girişlerinde araya nokta atma sorunu tespit edildi ve düzeltildi bu sorunun tespiti için ( Sertuhan Endüstriyel Havalandırma ve İzolasyon SAN. TİC. A.Ş )\u0027 ye teşekkürler, Etiket modülü eklendi henüz iskelet aşamasında geliştiriliyor.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.2/TYP_v4.10.2.zip",
-    "sha256":  "d10de1ed5492b4f39e8f89bea947a056c279b937a0dab96f168ad97e3e1573fd"
+    "surum":  "4.10.3",
+    "notlar":  "ekran çözünürlüğü düzeltmeleri yapıldı, lisans yapısı Windows11 24h2 ve sonrası güncellemelerine uygun hale getirildi, Cari kodu otomatik atama yapıldı, Stok modülünde geliştirmeler yapıldı, Hızlı satış ekranı yeniden tasarlandı ve yeni özellikler eklendi belirlenen sorunlar giderildi.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.3/TYP_v4.10.3.zip",
+    "sha256":  "6ffe663db3d75808435836ea1489c3172f21c1eb641a5c1fb58041440c617e3d"
 }
