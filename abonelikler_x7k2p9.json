@@ -61,7 +61,10 @@
                             "durum":  "aktif",
                             "anahtarHash":  "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
                             "telefon":  "0 539 731 44 36",
-                            "not":  "HARUN KARABAĞ"
+                            "not":  "HARUN KARABAĞ",
+                            "cihazlar":  [
+                                             "5A7120B4"
+                                         ]
                         },
                         {
                             "musteri":  "RFK MUHENDİSLİK TİC LTD ŞTİ",
