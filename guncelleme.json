@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.3",
-    "notlar":  "ekran çözünürlüğü düzeltmeleri yapıldı, lisans yapısı Windows11 24h2 ve sonrası güncellemelerine uygun hale getirildi, Cari kodu otomatik atama yapıldı, Stok modülünde geliştirmeler yapıldı, Hızlı satış ekranı yeniden tasarlandı ve yeni özellikler eklendi belirlenen sorunlar giderildi.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.3/TYP_v4.10.3.zip",
-    "sha256":  "6ffe663db3d75808435836ea1489c3172f21c1eb641a5c1fb58041440c617e3d"
+    "surum":  "4.10.4",
+    "notlar":  "Hızlı Satış ekranında sepet tutarlarının tam görünmemesi sorunu ve hızlı ürün ekleme butonlarına görsel desteği yapıldı.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.4/TYP_v4.10.4.zip",
+    "sha256":  "7128377d0e6cf5da89980c98af8075cb48900baa4667998e3b00b7617be045f6"
 }
