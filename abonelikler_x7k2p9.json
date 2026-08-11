@@ -110,6 +110,18 @@
                                              "24DED74D",
                                              "C41F59AF"
                                          ]
+                        },
+                        {
+                            "musteri":  "RİNG ENERJİ ELEKTRİK İNŞAAT MÜHENDİSLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+                            "baslangic":  "2026-08-11",
+                            "bitis":  "2027-02-11",
+                            "durum":  "aktif",
+                            "anahtarHash":  "53094CD42B63C286D8845FC01EA6CB62AE90FF8B62287EB4D450DC57A0CB7284",
+                            "telefon":  "0 539 210 95 31",
+                            "not":  "ERCAN KARADENİZ",
+                            "cihazlar":  [
+                                             "37B06677"
+                                         ]
                         }
                     ]
 }
