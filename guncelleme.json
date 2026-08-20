@@ -1,6 +1,6 @@
 {
     "surum":  "4.10.6",
-    "notlar":  "Geri donusum kutusu Geldi :), stok icin Excel/CSV aktarimi, etiket tasarim sihirbazi ve musteri ekrani eklendi. Etiket tasarim ekrani sadelestirildi, yazici secimi hatirlaniyor. Cok satirli alanlarda Enter sorunu giderildi. Program artik kurulum dosyasiyla dagitiliyor. (https://byhabit.blogspot.com/)",
+    "notlar":  "Geri donusum kutusu, stok icin Excel/CSV aktarimi, etiket tasarim sihirbazi ve musteri ekrani eklendi. Etiket tasarim ekrani sadelestirildi, yazici secimi hatirlaniyor. Cok satirli alanlarda Enter sorunu giderildi. Program artik kurulum dosyasiyla dagitiliyor.",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.6/TYP_v4.10.6.zip",
-    "sha256":  "3222cd923159518bc82f229f55159b7aa2825a77f594eb04bf9053b3d3db676a"
+    "sha256":  "9a041279ff384fa27c030dcd2d184f24c41888fe40a686bd91286af305e24da6"
 }
