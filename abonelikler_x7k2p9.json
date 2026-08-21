@@ -5,9 +5,7 @@
                             "baslangic":  "2026-07-21",
                             "bitis":  "2027-08-21",
                             "durum":  "aktif",
-                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
-                            "telefon":  "0 543 903 37 62",
-                            "not":  "RECEP TUNA KARGI"
+                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6"
                         },
                         {
                             "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
@@ -15,8 +13,6 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
-                            "telefon":  "0 543 288 29 76",
-                            "not":  "",
                             "cihazlar":  [
                                              "AF848297"
                                          ]
@@ -27,8 +23,6 @@
                             "bitis":  "2026-09-03",
                             "durum":  "aktif",
                             "anahtarHash":  "C6A615DE1B3FADFA6F9735AAA48B68DB0A040B96E74B89CACF41A3AEA55FF920",
-                            "telefon":  "0 530 788 71 94",
-                            "not":  "I TECH IN",
                             "cihazlar":  [
                                              "1F568745"
                                          ]
@@ -38,9 +32,7 @@
                             "baslangic":  "2026-07-23",
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
-                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
-                            "telefon":  "0 537 513 22 05",
-                            "not":  "ALPCAN AKINTÜRK"
+                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A"
                         },
                         {
                             "musteri":  "GÖKSAL AKÇAY",
@@ -48,8 +40,6 @@
                             "bitis":  "2027-01-25",
                             "durum":  "aktif",
                             "anahtarHash":  "0C723773C592D1B1EDA7BA4DD720ECAB0180B425DD1EC3A680E557C98F2075B9",
-                            "telefon":  "0 505 495 42 83",
-                            "not":  "",
                             "cihazlar":  [
                                              "97831730"
                                          ]
@@ -60,8 +50,6 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
-                            "telefon":  "0 539 731 44 36",
-                            "not":  "HARUN KARABAĞ",
                             "cihazlar":  [
                                              "5A7120B4",
                                              "F446D746",
@@ -73,9 +61,7 @@
                             "baslangic":  "2026-07-26",
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
-                            "anahtarHash":  "AFC52F84E2F7D47710724637B13804215C11095A8D73AAC741780AA69B66DBAE",
-                            "telefon":  "0 535 765 40 00",
-                            "not":  "TAMER SARI"
+                            "anahtarHash":  "AFC52F84E2F7D47710724637B13804215C11095A8D73AAC741780AA69B66DBAE"
                         },
                         {
                             "musteri":  "ALP37 KURUMSAL TEDARİK",
@@ -83,8 +69,9 @@
                             "bitis":  "2099-12-31",
                             "durum":  "aktif",
                             "anahtarHash":  "FC056E6D89D2C5EE4B44101641484259D90C8FE1552A570218F6D971A1B11C7F",
-                            "telefon":  "0 532 447 00 37",
-                            "not":  "MUHAMMER BEKLEVİÇ"
+                            "cihazlar":  [
+                                             "FEF83300"
+                                         ]
                         },
                         {
                             "musteri":  "KARASU ARZUM KIRTASİYE SAN.TİC. LTD. ŞTİ.",
@@ -92,8 +79,6 @@
                             "bitis":  "2027-01-26",
                             "durum":  "aktif",
                             "anahtarHash":  "CCA4DE3613D5BE3EEFD3728BA0828D9760193313A6C14CC53D7FC9A6DF7DDAA5",
-                            "telefon":  "0 530 828 36 93",
-                            "not":  "MUSTAFA MARANGOZ",
                             "cihazlar":  [
                                              "56231237"
                                          ]
@@ -104,8 +89,6 @@
                             "bitis":  "2028-08-01",
                             "durum":  "aktif",
                             "anahtarHash":  "2FACB0B8AB5692A86FF3CFAF0818E52B801C9E2F85D4889B85E3A169BD48290D",
-                            "telefon":  "0 535 418 44 09",
-                            "not":  "AYÇA BAKKAL",
                             "cihazlar":  [
                                              "24DED74D",
                                              "C41F59AF"
@@ -117,8 +100,6 @@
                             "bitis":  "2027-02-11",
                             "durum":  "aktif",
                             "anahtarHash":  "53094CD42B63C286D8845FC01EA6CB62AE90FF8B62287EB4D450DC57A0CB7284",
-                            "telefon":  "0 539 210 95 31",
-                            "not":  "ERCAN KARADENİZ",
                             "cihazlar":  [
                                              "37B06677"
                                          ]
