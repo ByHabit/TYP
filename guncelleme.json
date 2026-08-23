@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.6",
-    "notlar":  "Geri donusum kutusu, stok icin Excel/CSV aktarimi, etiket tasarim sihirbazi ve musteri ekrani eklendi. Etiket tasarim ekrani sadelestirildi, yazici secimi hatirlaniyor. Cok satirli alanlarda Enter sorunu giderildi. Program artik kurulum dosyasiyla dagitiliyor.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.6/TYP_v4.10.6.zip",
-    "sha256":  "9a041279ff384fa27c030dcd2d184f24c41888fe40a686bd91286af305e24da6"
+    "surum":  "4.10.7",
+    "notlar":  "Etiket serit baskisi ile kagit tasarrufu, 58 mm rulo varsayilani, coklu teklif tasarimi ve program adi degisikligi (TYS - Ticari Yonetim Sistemi).",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.7/TYP_v4.10.7.zip",
+    "sha256":  "6a9d7a138f30731d7859bc3e3eb9fb9fabc4a0040cb37e84d1578ed10f982c67"
 }
