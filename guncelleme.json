@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.8",
-    "notlar":  "Cevrimdisi lisans destegi (internetsiz bilgisayarlar icin) ve Windows 7 gorunum duzeltmesi.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.8/TYP_v4.10.8.zip",
-    "sha256":  "9c3ec6809979dbc450a3d4deff35b92fab26dbec8d0ffb4c6be26146472bc40b"
+    "surum":  "4.10.9",
+    "notlar":  "Cevrimdisi lisans suresi artik internete baglanildiginda otomatik yenileniyor; Lisans Durumu ekranindaki Kontrol Et dugmesi hemen denetler.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.9/TYP_v4.10.9.zip",
+    "sha256":  "b77250fad0a8a3151012b2f10c3a5d9cf83a9bfafbb81a81b5306de4a5694943"
 }
