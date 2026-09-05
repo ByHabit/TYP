@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.12",
-    "notlar":  "Guncelleme uyarisi artik secenekli; Hizli Satis tus boyutu 70px\u0027e kadar kucultulebiliyor ve fiyat gizlenebiliyor.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.12/TYP_v4.10.12.zip",
-    "sha256":  "12173bd6fcb93c834cf9b3fcebb1e9120c4ff80e25efdab9a5ff41b78de4a0c1"
+    "surum":  "4.10.13",
+    "notlar":  "Ayar dosyasi artik guvenli yaziliyor ve yedekler alindiktan sonra dogrulaniyor.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.13/TYP_v4.10.13.zip",
+    "sha256":  "f67df32429dcd7dfb4221aa0ff645699f68d0035b2d200ee8941b17156755694"
 }
