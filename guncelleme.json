@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.11",
-    "notlar":  "Veri Sagligi Denetimi artik ayni numarayi tasiyan belgeleri buluyor ve silmeden yeniden numaralandiriyor.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.11/TYP_v4.10.11.zip",
-    "sha256":  "ceaa1f2196771b2e84aa03d174dd835477a83e3854cb51e1f300972babe522e7"
+    "surum":  "4.10.12",
+    "notlar":  "Guncelleme uyarisi artik secenekli; Hizli Satis tus boyutu 70px\u0027e kadar kucultulebiliyor ve fiyat gizlenebiliyor.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.12/TYP_v4.10.12.zip",
+    "sha256":  "12173bd6fcb93c834cf9b3fcebb1e9120c4ff80e25efdab9a5ff41b78de4a0c1"
 }
