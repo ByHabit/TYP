@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.13",
-    "notlar":  "Ayar dosyasi artik guvenli yaziliyor ve yedekler alindiktan sonra dogrulaniyor.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.13/TYP_v4.10.13.zip",
-    "sha256":  "f67df32429dcd7dfb4221aa0ff645699f68d0035b2d200ee8941b17156755694"
+    "surum":  "4.10.14",
+    "notlar":  "Kasa, banka ve stok islemleri artik ya hepsi ya hicbiri kuraliyla calisiyor; yarim kalan kayit olusmuyor.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.14/TYP_v4.10.14.zip",
+    "sha256":  "359aceb43abcb57cf0f04d72402236050d6086e9904878c5cce5b072eaef8e94"
 }
