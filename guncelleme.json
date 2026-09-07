@@ -1,6 +1,6 @@
 {
-    "surum":  "4.10.15",
-    "notlar":  "Veri Sagligi Denetimi tutarlilik kontrolleri, arama kutularina temizleme dugmesi ve ayarlar aramasindaki imlec sorunu duzeltildi.",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.15/TYP_v4.10.15.zip",
-    "sha256":  "eebb7bda6a9109ccafeb585f08c52e1490206f813aeae050309e0aed0fa06ca3"
+    "surum":  "4.10.16",
+    "notlar":  "Cari ekstresinin altina odeme bilgileri (IBAN) eklenebiliyor; Ayarlar \u003e Firma bolumunden acilir.",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.16/TYP_v4.10.16.zip",
+    "sha256":  "1466c56876539ed3537676a96035b915bbce2520311259b80b9dea71e1bf79c6"
 }
