@@ -1,6 +1,6 @@
 {
     "surum":  "4.10.16",
-    "notlar":  "Cari ekstresinin altina odeme bilgileri (IBAN) eklenebiliyor; Ayarlar \u003e Firma bolumunden acilir.",
+    "notlar":  "Sepete indirim, cari ekstresinde odeme bilgileri ve dar ekranlar icin yerlesim duzeltmeleri.",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.10.16/TYP_v4.10.16.zip",
-    "sha256":  "0678644c9ec5518bc6eca13c28977a6ecbb90456c64e8ff443c36303697b0b2b"
+    "sha256":  "7dcc71124be783829638d18602a34bc06c029895abc9ac1c09d0ef73ffb02f28"
 }
