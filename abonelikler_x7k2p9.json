@@ -143,6 +143,18 @@
                             "cihazlar":  [
                                              "43DDCE78"
                                          ]
+                        },
+                        {
+                            "musteri":  "EMİNE BOZKURT",
+                            "baslangic":  "2026-09-10",
+                            "bitis":  "2027-09-10",
+                            "durum":  "aktif",
+                            "anahtarHash":  "59CC01E1D815BE423095DE591935B21B803B7B2E9F4C0BF5408627799B56806C",
+                            "telefon":  "0 535 861 66 55",
+                            "not":  "MUHASEBE",
+                            "cihazlar":  [
+                                             "F123F27E"
+                                         ]
                         }
                     ]
 }
