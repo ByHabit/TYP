@@ -155,6 +155,18 @@
                             "cihazlar":  [
                                              "F123F27E"
                                          ]
+                        },
+                        {
+                            "musteri":  "TUZLAM OPTİK",
+                            "baslangic":  "2026-09-24",
+                            "bitis":  "2027-03-24",
+                            "durum":  "aktif",
+                            "anahtarHash":  "46B6FF8AD2C9B1E5D6A8A11249DBD336BC790963F7B71EA6E395D1007DE095EC",
+                            "telefon":  "0 554 387 02 99",
+                            "not":  "SERDAR BEY",
+                            "cihazlar":  [
+                                             "5881426A"
+                                         ]
                         }
                     ]
 }
