@@ -1,6 +1,6 @@
 {
-    "surum":  "4.12.3",
-    "notlar":  "v4.12.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\nFARKLI DILDE TEKLIF\r\n- DUZELTME: Ingilizce (veya Almanca, Fransizca, Italyanca, Rusca, Cince) bir\r\n  teklifte basliklar cevriliyor ama birim \"Adet\" olarak Turkce kaliyordu.\r\n- Adet, Paket, Koli, Kutu, Takim, Cift, Saat, Gun, Ay, Yil artik belgenin\r\n  dilinde yaziliyor. Olcu birimleri simgesiyle: kg, m, m2, L.\r\n- Kendi eklediginiz birimler degistirilmez.\r\n\r\nGUNCELLEME PENCERESI\r\n- DUZELTME: Elle \"guncellemeleri denetle\" dendiginde surum notu uzunsa\r\n  pencere ekrana sigmiyor ve Evet dugmesi gorunmuyordu. Artik kaydirmali.\r\n",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.12.3/TYP_v4.12.3.zip",
-    "sha256":  "8f23239b40cb051ab77ebca7ec14b97694b3b639972638db659989cdfa1811f5"
+    "surum":  "4.13.0",
+    "notlar":  "v4.13.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- PDF artik programin icinde uretiliyor: teklif, proforma, servis fisi,\r\n  servis formu, makbuz, cari ekstre (ek bilesen gerekmez, hizli)\r\n- Tek \"Kaydet\" dugmesi: PDF ya da HTML, son klasor ve bicim hatirlanir\r\n- Toplamlar ve imzalar artik bos bir sayfaya dusmuyor\r\n- Logolar ve fotograflar otomatik kucultuluyor; veritabani kuculuyor\r\n  (ilk acilis birkac saniye surebilir)\r\n- Duzeltme: listeden kaydedilen teklif PDF\u0027inde logo cikmiyordu\r\n- Duzeltme: \"WebView2 bulunamadi\" hatasi ve PDF beklemesi giderildi",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.13.0/TYP_v4.13.0.zip",
+    "sha256":  "be348b91048903f0091b73c80c74d615bb1a62e1a81d9273e8235c1e88cf22b4"
 }
