@@ -1,6 +1,6 @@
 {
     "surum":  "4.13.0",
-    "notlar":  "v4.13.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- PDF artik programin icinde uretiliyor: teklif, proforma, servis fisi,\r\n  servis formu, makbuz, cari ekstre (ek bilesen gerekmez, hizli)\r\n- Tek \"Kaydet\" dugmesi: PDF ya da HTML, son klasor ve bicim hatirlanir\r\n- Toplamlar ve imzalar artik bos bir sayfaya dusmuyor\r\n- Logolar ve fotograflar otomatik kucultuluyor; veritabani kuculuyor\r\n  (ilk acilis birkac saniye surebilir)\r\n- Duzeltme: listeden kaydedilen teklif PDF\u0027inde logo cikmiyordu\r\n- Duzeltme: \"WebView2 bulunamadi\" hatasi ve PDF beklemesi giderildi",
+    "notlar":  "v4.13.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- PDF artik programin icinde uretiliyor: teklif, proforma, servis fisi,\r\n  servis formu, makbuz, cari ekstre (ek bilesen gerekmez, hizli)\r\n- Tek \"Kaydet\" dugmesi: PDF ya da HTML, son klasor ve bicim hatirlanir\r\n- Toplamlar ve imzalar artik bos bir sayfaya dusmuyor\r\n- Logolar otomatik kucultuluyor (ilk acilis birkac saniye surebilir)\r\n- Kullanici sifreleri daha guclu korunuyor; ilk giriste kendiliginden\r\n  yukseltilir (\"sifremi hatirla\" kullananlar sifreyi bir kez girer)\r\n- Duzeltme: ayarlarin nadiren varsayilanlara donmesi giderildi\r\n- Duzeltme: teklif PDF\u0027inde logo, \"WebView2 bulunamadi\" hatasi",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.13.0/TYP_v4.13.0.zip",
-    "sha256":  "492bd11c9e67ee1efdb7c0300ca3922b96ba6b55b341ed50649de58fae92492f"
+    "sha256":  "ee5e1bcd954d811098ba8bf0cc8c98cd38c8282d83877d750ddefd89f505ad2d"
 }
