@@ -2,5 +2,5 @@
     "surum":  "4.13.0",
     "notlar":  "v4.13.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- PDF artik programin icinde uretiliyor: teklif, proforma, servis fisi,\r\n  servis formu, makbuz, cari ekstre (ek bilesen gerekmez, hizli)\r\n- Tek \"Kaydet\" dugmesi: PDF ya da HTML, son klasor ve bicim hatirlanir\r\n- Toplamlar ve imzalar artik bos bir sayfaya dusmuyor\r\n- Logolar ve fotograflar otomatik kucultuluyor; veritabani kuculuyor\r\n  (ilk acilis birkac saniye surebilir)\r\n- Duzeltme: listeden kaydedilen teklif PDF\u0027inde logo cikmiyordu\r\n- Duzeltme: \"WebView2 bulunamadi\" hatasi ve PDF beklemesi giderildi",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.13.0/TYP_v4.13.0.zip",
-    "sha256":  "be348b91048903f0091b73c80c74d615bb1a62e1a81d9273e8235c1e88cf22b4"
+    "sha256":  "492bd11c9e67ee1efdb7c0300ca3922b96ba6b55b341ed50649de58fae92492f"
 }
