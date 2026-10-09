@@ -2,5 +2,5 @@
     "surum":  "4.14.0",
     "notlar":  "v4.14.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Yapay zeka asistani (istege bagli, varsayilan kapali). Kendi API\r\n  anahtarinizla soru sorup rapor alin: Ayarlar \u003e Yapay Zeka\r\n- Ana Ekranda firma seridi; yedek rozetine cift tik yedek klasorunu acar\r\n- Yardim dugmesi ust seritte; F1 ile de acilir\r\n- Programin tamami dokunmatik ekran uyumlu\r\n- Duzeltme: yeni kurulumda ilk acilista servis, stok ve cari hareket\r\n  ekranlarinda alinabilen hata giderildi\r\n- Duzeltme: stok karti penceresinde ust dugmelerin kesilmesi giderildi\r\n- Yedekten geri yukleme daha guvenli: veritabani kullanimdaysa durur\r\n- Her surumden once 66 otomatik test senaryosu calisir",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.0/TYP_v4.14.0.zip",
-    "sha256":  "01e258d457f1ad2833b45f9e9f92e7a839e5ced30c4a024f70f15da4b8a49f75"
+    "sha256":  "f65fefe26b970b8180a930b4be6d8c1a3c77bee061e67790fa61c25ae0e0e5c9"
 }
