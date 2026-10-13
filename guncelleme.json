@@ -1,6 +1,6 @@
 {
-    "surum":  "4.14.0",
-    "notlar":  "v4.14.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Yapay zeka asistani (istege bagli, varsayilan kapali). Kendi API\r\n  anahtarinizla soru sorup rapor alin: Ayarlar \u003e Yapay Zeka\r\n- Ana Ekranda firma seridi; yedek rozetine cift tik yedek klasorunu acar\r\n- Yardim dugmesi ust seritte; F1 ile de acilir\r\n- Programin tamami dokunmatik ekran uyumlu\r\n- Duzeltme: yeni kurulumda ilk acilista servis, stok ve cari hareket\r\n  ekranlarinda alinabilen hata giderildi\r\n- Duzeltme: stok karti penceresinde ust dugmelerin kesilmesi giderildi\r\n- Yedekten geri yukleme daha guvenli: veritabani kullanimdaysa durur\r\n- Her surumden once 66 otomatik test senaryosu calisir",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.0/TYP_v4.14.0.zip",
-    "sha256":  "b9abe25248dd9e69d4a8ffe2dbb326a278932addd3cd427ec25ea6adcabf9638"
+    "surum":  "4.14.1",
+    "notlar":  "v4.14.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Duzeltme: cari listesinde, cari kartinda ve Ana Ekranda bazi kasa\r\n  tahsilat/odemeleri sayilmiyordu (ekstre dogru gosteriyordu)\r\n- Duzeltme: Yeni Donem sonrasi kasa/banka kaydi duzenlenince ya da\r\n  silinince eski doneme ait ilgisiz kayitlar da silinebiliyordu\r\n- Ilk acilista bir kez otomatik denetim: sorun varsa once yedek alinir,\r\n  sonra kayitlar duzeltilir; hicbir kayit silinmez\r\n- YENI: Hakkinda \u003e Guncellemeleri Denetle ile ayni surum yeniden\r\n  kurulabilir (bozuk/eksik program dosyalarini onarmak icin)",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.1/TYP_v4.14.1.zip",
+    "sha256":  "951ab343d83225685de0a00d1b36c14ec134687d95feec0d6bb22be5560476a7"
 }
