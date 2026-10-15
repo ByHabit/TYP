@@ -2,5 +2,5 @@
     "surum":  "4.14.1",
     "notlar":  "v4.14.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Duzeltme: cari listesinde, cari kartinda ve Ana Ekranda bazi kasa\r\n  tahsilat/odemeleri sayilmiyordu (ekstre dogru gosteriyordu)\r\n- Duzeltme: Yeni Donem sonrasi kasa/banka kaydi duzenlenince ya da\r\n  silinince eski doneme ait ilgisiz kayitlar da silinebiliyordu\r\n- Ilk acilista bir kez otomatik denetim: sorun varsa once yedek alinir,\r\n  sonra kayitlar duzeltilir; hicbir kayit silinmez\r\n- YENI: Hakkinda \u003e Guncellemeleri Denetle ile ayni surum yeniden\r\n  kurulabilir (bozuk/eksik program dosyalarini onarmak icin)",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.1/TYP_v4.14.1.zip",
-    "sha256":  "558586cc0661f84bb60bd28f5afcbda44121b9bedb840d80fc0c3cfc4f0c0f4f"
+    "sha256":  "44ceada531d9b32a65446ab6fc0dfaefdd8b6be503c731ffee722e3eb7bf92c0"
 }
