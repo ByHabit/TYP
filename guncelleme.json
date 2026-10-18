@@ -2,5 +2,5 @@
     "surum":  "4.14.2",
     "notlar":  "v4.14.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Butun listelerde ortak filtre cubugu (arama, Donem, Filtreler);\r\n  secili filtreler listenin ustunde gorunur. Ctrl+F ile arama\r\n- Hakkinda: kurulum dosyasini indir, baglantiyi kopyala, web sitesi\r\n- Ana Ekranda saate cift tik: Windows tarih ve saat ayarlarini acar\r\n- Kurulum sihirbazi Aytek Bilisim gorselleri ve destek bilgileriyle\r\n- Muhasebeci paketi ve Kasa arsivinde tek Donem dugmesi\r\n- Duzeltme: Teklifler ve Teknik Servis\u0027te \"Ara\" ile baslayan aramalar\r\n  (Araci, Arcelik) yapilamiyordu\r\n- Duzeltme: stok karti kaydedilince kart acikken yapilan satis geri\r\n  aliniyordu",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.2/TYP_v4.14.2.zip",
-    "sha256":  "12eb4a3ffb63a2801ce83d69d9a11ed39053aa90e1ca74f6070f1a830720d69f"
+    "sha256":  "f5798a8c1e53728523f16db14a56ea49eb20b068fac8882e021ae235b977e4a3"
 }
