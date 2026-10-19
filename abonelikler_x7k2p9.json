@@ -167,6 +167,18 @@
                             "cihazlar":  [
                                              "5881426A"
                                          ]
+                        },
+                        {
+                            "musteri":  "TOK SPOR GIYIM",
+                            "baslangic":  "2026-10-19",
+                            "bitis":  "2027-01-19",
+                            "durum":  "aktif",
+                            "anahtarHash":  "144454B4A881F764E0A50CC97CE0026364A53A3B4583F7C1BADB76CCC0A17C47",
+                            "telefon":  "",
+                            "not":  "TUNCAY TOK",
+                            "cihazlar":  [
+                                             "E4C862B3"
+                                         ]
                         }
                     ]
 }
