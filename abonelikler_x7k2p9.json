@@ -179,6 +179,18 @@
                             "cihazlar":  [
                                              "E4C862B3"
                                          ]
+                        },
+                        {
+                            "musteri":  "UÇAN TİCARET",
+                            "baslangic":  "2026-10-21",
+                            "bitis":  "2027-01-21",
+                            "durum":  "aktif",
+                            "anahtarHash":  "F47DFB09E7EC2D4E85FC55B6635706335B1D427EFA471938A1A804A208AD4F5C",
+                            "telefon":  "05304623109",
+                            "not":  "NEVZAT UÇAN",
+                            "cihazlar":  [
+                                             "7FA52EF9"
+                                         ]
                         }
                     ]
 }
