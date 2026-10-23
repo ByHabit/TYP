@@ -2,5 +2,5 @@
     "surum":  "4.14.3",
     "notlar":  "v4.14.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Cok sayida urunle hiz: Stok ekrani, arama, barkod ve Hizli Satis\r\n- Duzeltme: cok stoklu veritabanlarinda acilis bir dakikadan uzun\r\n  suruyordu\r\n- Stok kartina Marka, Model, Beden, Renk; kelime kelime arama\r\n- Kullanilmayan stoklari temizle (Stok \u003e Temizle)\r\n- Stok aktarimi: tarih / stok secimi, kaynak tarihler ve marka\r\n- Butun listelerde sutun basligina sag tik: sutunlari duzenle\r\n- Duzeltme: fiyat guncelleyen stok aktarimi urun fotograflarini\r\n  siliyordu",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.3/TYP_v4.14.3.zip",
-    "sha256":  "139733d0f93ac06382dcc2e0a9f17a03319f1390d85014d8c03d9d5a39e43351"
+    "sha256":  "6ba04214cbd9d5bec9685cef7562343f2cc9e28aac6e8ff894cb0f658a9470f7"
 }
