@@ -1,6 +1,6 @@
 {
-    "surum":  "4.14.3",
-    "notlar":  "v4.14.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Cok sayida urunle hiz: Stok ekrani, arama, barkod ve Hizli Satis\r\n- Duzeltme: cok stoklu veritabanlarinda acilis bir dakikadan uzun\r\n  suruyordu\r\n- Stok kartina Marka, Model, Beden, Renk; kelime kelime arama\r\n- Kullanilmayan stoklari temizle (Stok \u003e Temizle)\r\n- Stok aktarimi: tarih / stok secimi, kaynak tarihler ve marka\r\n- Butun listelerde sutun basligina sag tik: sutunlari duzenle\r\n- Duzeltme: fiyat guncelleyen stok aktarimi urun fotograflarini\r\n  siliyordu",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.3/TYP_v4.14.3.zip",
-    "sha256":  "2ec05ac8fd5f74b61376e3871db6a71a40fed4936aefcc87c10afabf8fa26ada"
+    "surum":  "4.14.4",
+    "notlar":  "v4.14.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Cari iceri aktarma (Excel/CSV): Akinsoft vb. programlardan\r\n  cari listesi ve acilis bakiyeleri\r\n- Ek fiyatlar (2. ve 3. fiyat), carinin fiyat listesi\r\n- Yenilenen Hizli Satis ekrani ve cari secme penceresi\r\n- Ortadan kesik (yan yana) etiket; Ana Ekran Bandi\r\n- Cari borclandirmada stoktan urun secme (veresiye)\r\n- Duzeltme: cok urunlu magazalarda Etiket baski ekrani\r\n  donuyordu\r\n- Duzeltme: Hizli Satista cari secili nakit/kartli satis\r\n  carinin bakiyesini yanlis gosteriyordu\r\n- Duzeltme: tam ekranda ust uste pencere aciliyordu",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.4/TYP_v4.14.4.zip",
+    "sha256":  "6445f87c51128154a808803ba29c2492ce8dce73ff49313a58213c596ebc48c7"
 }
