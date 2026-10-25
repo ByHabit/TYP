@@ -2,5 +2,5 @@
     "surum":  "4.14.4",
     "notlar":  "v4.14.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Cari iceri aktarma (Excel/CSV): Akinsoft vb. programlardan\r\n  cari listesi ve acilis bakiyeleri\r\n- Ek fiyatlar (2. ve 3. fiyat), carinin fiyat listesi\r\n- Yenilenen Hizli Satis ekrani ve cari secme penceresi\r\n- Ortadan kesik (yan yana) etiket; Ana Ekran Bandi\r\n- Cari borclandirmada stoktan urun secme (veresiye)\r\n- Duzeltme: cok urunlu magazalarda Etiket baski ekrani\r\n  donuyordu\r\n- Duzeltme: Hizli Satista cari secili nakit/kartli satis\r\n  carinin bakiyesini yanlis gosteriyordu\r\n- Duzeltme: tam ekranda ust uste pencere aciliyordu",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.4/TYP_v4.14.4.zip",
-    "sha256":  "1a29bf0c029c537ced901767c61c7c051ec02578be734cc1d3da271e8084a4db"
+    "sha256":  "00066f188111c0d07e3a15d41ca19be67a6823e9caa6f528df856e2a0968f839"
 }
