@@ -1,6 +1,6 @@
 {
-    "surum":  "4.14.4",
-    "notlar":  "v4.14.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Cari iceri aktarma (Excel/CSV): Akinsoft vb. programlardan\r\n  cari listesi ve acilis bakiyeleri\r\n- Ek fiyatlar (2. ve 3. fiyat), carinin fiyat listesi\r\n- Yenilenen Hizli Satis ekrani ve cari secme penceresi\r\n- Ortadan kesik (yan yana) etiket; Ana Ekran Bandi\r\n- Cari borclandirmada stoktan urun secme (veresiye)\r\n- Duzeltme: cok urunlu magazalarda Etiket baski ekrani\r\n  donuyordu\r\n- Duzeltme: Hizli Satista cari secili nakit/kartli satis\r\n  carinin bakiyesini yanlis gosteriyordu\r\n- Duzeltme: tam ekranda ust uste pencere aciliyordu",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.14.4/TYP_v4.14.4.zip",
-    "sha256":  "d91caae0d2b5dbf5112b7df81a14d3a05b66ea32ab5da0f02c19d7da96baa1bb"
+    "surum":  "4.15.0",
+    "notlar":  "v4.15.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teknik Servis yenilendi: cihaz kaydi / dis servis, kalemli\r\n  fiyat, musteri karari, islem gecmisi, 4 ayri belge\r\n- Musteriye WhatsApp / SMS bilgilendirme mesaji hazirlama\r\n- Cari: musteri sinifi (Riskli / Dikkat), her alanda arama,\r\n  toplu cari temizligi, Akinsoft listesi icin iyilestirme\r\n- Stok secimi hizlandi: barkodla seri ekleme, stok yetersiz\r\n  uyarisi kalkti (tum modullerde ayni)\r\n- Ana ekranda Ucret Bildirilecek karti; kartlar ekrana sigar\r\n- Duzeltme: cari hareketlerinden borclandirmada stok secimi\r\n- Duzeltme: fare tekerlegi ile kaydirma",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.0/TYP_v4.15.0.zip",
+    "sha256":  "d07d4150d7973a4d94dc61f3375ee7c30f0bcb3570794ad66c2f4231139c29d8"
 }
