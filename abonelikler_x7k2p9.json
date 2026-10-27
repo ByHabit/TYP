@@ -191,6 +191,18 @@
                             "cihazlar":  [
                                              "7FA52EF9"
                                          ]
+                        },
+                        {
+                            "musteri":  "CEM ÖZDEK",
+                            "baslangic":  "2026-10-27",
+                            "bitis":  "2027-01-27",
+                            "durum":  "aktif",
+                            "anahtarHash":  "42B9B37260AC75DA96EE47B0A5EB222FE9C5D0DEB107887E08ED2C1E3DE311E3",
+                            "telefon":  "0 545 582 01 42",
+                            "not":  "",
+                            "cihazlar":  [
+                                             "CCAB0198"
+                                         ]
                         }
                     ]
 }
