@@ -2,5 +2,5 @@
     "surum":  "4.15.0",
     "notlar":  "v4.15.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teknik Servis yenilendi: cihaz kaydi / dis servis, kalemli\r\n  fiyat, musteri karari, islem gecmisi, 4 ayri belge\r\n- Musteriye WhatsApp / SMS bilgilendirme mesaji hazirlama\r\n- Cari: musteri sinifi (Riskli / Dikkat), her alanda arama,\r\n  toplu cari temizligi, Akinsoft listesi icin iyilestirme\r\n- Stok secimi hizlandi: barkodla seri ekleme, stok yetersiz\r\n  uyarisi kalkti (tum modullerde ayni)\r\n- Ana ekranda Ucret Bildirilecek karti; kartlar ekrana sigar\r\n- Duzeltme: cari hareketlerinden borclandirmada stok secimi\r\n- Duzeltme: fare tekerlegi ile kaydirma",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.0/TYP_v4.15.0.zip",
-    "sha256":  "591f5808f69f29aa47274b0b111c2650f3e1c385fd1fa50da8789c5fd51e3166"
+    "sha256":  "81d69f4c93e0b6f169eb6048f901dce6f3c9b5686a1e3f665da5e0f947cc0ce8"
 }
