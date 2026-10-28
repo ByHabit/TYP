@@ -135,13 +135,14 @@
                         {
                             "musteri":  "Rimenes Denizcilik",
                             "baslangic":  "2026-08-28",
-                            "bitis":  "2027-08-29",
+                            "bitis":  "2027-04-28",
                             "durum":  "aktif",
                             "anahtarHash":  "101DCBB72009C40ED3950612B78C24FBEFDB91407B200D6ECD20A506BD46B1CD",
                             "telefon":  "",
                             "not":  "",
                             "cihazlar":  [
-                                             "43DDCE78"
+                                             "43DDCE78",
+                                             "31790BBE"
                                          ]
                         },
                         {
@@ -208,7 +209,7 @@
                             "musteri":  "RIMENES DENIZCILIK",
                             "baslangic":  "2026-10-28",
                             "bitis":  "2027-10-28",
-                            "durum":  "aktif",
+                            "durum":  "iptal",
                             "anahtarHash":  "5EF533D4A5FFD0FA3144C66D530DAED6F7F04F33EC1A0C4DA9466E4116D15B59",
                             "telefon":  "",
                             "not":  "",
