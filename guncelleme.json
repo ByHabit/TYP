@@ -1,6 +1,6 @@
 {
-    "surum":  "4.15.0",
-    "notlar":  "v4.15.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teknik Servis yenilendi: cihaz kaydi / dis servis, kalemli\r\n  fiyat, musteri karari, islem gecmisi, 4 ayri belge\r\n- Musteriye WhatsApp / SMS bilgilendirme mesaji hazirlama\r\n- Cari: musteri sinifi (Riskli / Dikkat), her alanda arama,\r\n  toplu cari temizligi, Akinsoft listesi icin iyilestirme\r\n- Stok secimi hizlandi: barkodla seri ekleme, stok yetersiz\r\n  uyarisi kalkti (tum modullerde ayni)\r\n- Ana ekranda Ucret Bildirilecek karti; kartlar ekrana sigar\r\n- Duzeltme: cari hareketlerinden borclandirmada stok secimi\r\n- Duzeltme: fare tekerlegi ile kaydirma",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.0/TYP_v4.15.0.zip",
-    "sha256":  "f693501e94f57f1cf38efa8dba08a7fde5d71fb1f3038ed2b04334240210268a"
+    "surum":  "4.15.1",
+    "notlar":  "v4.15.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Ag uzerinden esitleme: ana bilgisayar + terminal (klasor\r\n  paylasimi gerekmez) ve arka plan hizmeti\r\n- Ayarlar \u003e Veritabani \u0026 Esitleme sayfasi yenilendi\r\n- Kurulum: yukseltme / temiz kurulum, bilgisayar rolu secimi\r\n- Servis odemesi kayitli; cari ekstresine servis ve teklif\r\n  kayitlari; ekstrede \"Not\" satirlari\r\n- Yeni giris ekranlari: kullanici kutucuklari, TYS logosu\r\n- Duzeltme: agi takilan bilgisayarda acilista donma",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.1/TYP_v4.15.1.zip",
+    "sha256":  "97c6a4420e0c99af60ea0765c202885557d1922cbcc6615e40af0c0533617b7a"
 }
