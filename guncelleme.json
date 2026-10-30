@@ -1,6 +1,6 @@
 {
-    "surum":  "4.15.1",
-    "notlar":  "v4.15.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Ag uzerinden esitleme: ana bilgisayar + terminal (klasor\r\n  paylasimi gerekmez) ve arka plan hizmeti\r\n- Ayarlar \u003e Veritabani \u0026 Esitleme sayfasi yenilendi\r\n- Kurulum: yukseltme / temiz kurulum, bilgisayar rolu secimi\r\n- Servis odemesi kayitli; cari ekstresine servis ve teklif\r\n  kayitlari; ekstrede \"Not\" satirlari\r\n- Yeni giris ekranlari: kullanici kutucuklari, TYS logosu\r\n- Duzeltme: agi takilan bilgisayarda acilista donma",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.1/TYP_v4.15.1.zip",
-    "sha256":  "e7132840f44799a49eb5bd33929aa7d4c5ef5da98e2c7a9adcc33256d93d8d26"
+    "surum":  "4.15.2",
+    "notlar":  "v4.15.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teklif / proforma stok dusumu: yeni proforma, duzenleme,\r\n  teklif onayi / tamamlama; varsayilan SOR, istege gore\r\n  \"sormadan dus\"; silme / iptalde iade sorulur\r\n- Stok dusumu cari ekstresine not olarak yazilir\r\n- Giris ekranlarinda Enter ile giris duzeltildi\r\n- Cop kutusundan geri alirken ayni belge numarasi uyarisi",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.2/TYP_v4.15.2.zip",
+    "sha256":  "e8513e1b33a7198f8b8f2763f59f9264d9abb02d1e53ae68542045db9d79d2a0"
 }
