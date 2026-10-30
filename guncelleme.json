@@ -2,5 +2,5 @@
     "surum":  "4.15.2",
     "notlar":  "v4.15.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teklif / proforma stok dusumu: yeni proforma, duzenleme,\r\n  teklif onayi / tamamlama; varsayilan SOR, istege gore\r\n  \"sormadan dus\"; silme / iptalde iade sorulur\r\n- Stok dusumu cari ekstresine not olarak yazilir\r\n- Giris ekranlarinda Enter ile giris duzeltildi\r\n- Duzeltme: esitleme hizmeti kuruluyken uygulama ici guncelleme\r\n- Cop kutusundan geri alirken ayni belge numarasi uyarisi",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.2/TYP_v4.15.2.zip",
-    "sha256":  "e19888a697f48679c0155587d919462f236209286f443ac3a9ef012d76d5d180"
+    "sha256":  "2f7031931719f54e537a04b2a073fc5a04359c980c06a45a2737125f59d77af0"
 }
