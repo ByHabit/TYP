@@ -1,6 +1,6 @@
 {
     "surum":  "4.15.2",
-    "notlar":  "v4.15.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teklif / proforma stok dusumu: yeni proforma, duzenleme,\r\n  teklif onayi / tamamlama; varsayilan SOR, istege gore\r\n  \"sormadan dus\"; silme / iptalde iade sorulur\r\n- Stok dusumu cari ekstresine not olarak yazilir\r\n- Giris ekranlarinda Enter ile giris duzeltildi\r\n- Duzeltme: esitleme hizmeti kuruluyken uygulama ici guncelleme\r\n- Cop kutusundan geri alirken ayni belge numarasi uyarisi",
+    "notlar":  "v4.15.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Teklif / proforma stok dusumu: yeni proforma, duzenleme,\r\n  teklif onayi / tamamlama; varsayilan SOR, istege gore\r\n  \"sormadan dus\"; silme / iptalde iade sorulur\r\n- Stok dusumu cari ekstresine not olarak yazilir\r\n- Giris ekranlarinda Enter ile giris duzeltildi\r\n- Duzeltme: esitleme hizmeti kuruluyken uygulama ici guncelleme\r\n- Cop kutusundan geri alirken ayni belge numarasi uyarisi\r\n\r\nONEMLI: Esitleme (arka plan) hizmeti kuruluysa v4.15.1\u0027den\r\nguncellemeden ONCE Ayarlar \u003e Veritabani \u0026 Esitleme\u0027den hizmeti\r\nDURDURUN, sonra Baslat deyin. Sonraki surumlerde gerekmez.",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.2/TYP_v4.15.2.zip",
-    "sha256":  "2f7031931719f54e537a04b2a073fc5a04359c980c06a45a2737125f59d77af0"
+    "sha256":  "3310fe685daadb9d077e134ffdafecbb648bfe99f59d8e835a6c403fd571619c"
 }
