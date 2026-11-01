@@ -228,6 +228,15 @@
                             "cihazlar":  [
                                              "96A12564"
                                          ]
+                        },
+                        {
+                            "musteri":  "Tuna Gemi İkmal Sanayi ve Ticaret Limited Şirketi",
+                            "baslangic":  "2026-11-02",
+                            "bitis":  "2027-05-02",
+                            "durum":  "aktif",
+                            "anahtarHash":  "68C531F36C7E67F09FE1E09F3680A7A48E6648ED590B174FF99789170DECC505",
+                            "telefon":  "",
+                            "not":  ""
                         }
                     ]
 }
