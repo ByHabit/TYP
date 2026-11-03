@@ -2,5 +2,5 @@
     "surum":  "4.15.4",
     "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Mobil erisim: telefondan ozet, cari, stok, teklif, kasa, banka ve\r\n  servis (salt okunur); PDF / WhatsApp / e-posta; guvenli baglanti\r\n- E-posta ayarlari: teklif, ekstre, makbuz PDF ekli gonderilir\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.4/TYP_v4.15.4.zip",
-    "sha256":  "bb42b9e6cc6f5887fc7c4a96cf57ecdca98ca619194fa2a66239419774b24030"
+    "sha256":  "4dc70c3c519370685c2b4cb2781c91dd4c95d7d197f675ed98f7974daed0c978"
 }
