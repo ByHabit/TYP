@@ -2,5 +2,5 @@
     "surum":  "4.15.3",
     "notlar":  "v4.15.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Ayarlari disa / ice aktar: firma, logo, banka, kullanici,\r\n  tanim, tasarim ve modul ayarlari tek dosyayla tasinir\r\n- Cari hareketlerinde hizli \"Stoktan Urun Ekle\" dugmesi\r\n- Duzeltme: stok kodu bos stok kartlarinda proforma / teklif\r\n  stok dusumu ve iadesi calismiyordu",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.3/TYP_v4.15.3.zip",
-    "sha256":  "cf7e1891a71e6dee13a0ddfa15f42e233b76a68a91aadba176a9c88988ccf2a9"
+    "sha256":  "ce39d4a6a4526e176e700859c6788c94f1cf9b86813756192e0ac264ad34054b"
 }
