@@ -1,6 +1,6 @@
 {
     "surum":  "4.15.4",
-    "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Otomatik esitleme 30 saniyede bir (herkeste 30 sn\u0027ye ayarlanir;\r\n  aralik Ayarlar \u003e Veritabani \u0026 Esitleme\u0027den secilir)\r\n- Mobil erisim: telefondan ozet, cari, stok, teklif, kasa, banka ve\r\n  servis (salt okunur); belgeleri PDF on izleme ve paylasma;\r\n  program kapaliyken de calisabilir (arka plan hizmeti)\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
+    "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Tekliflerde satir iskontosu (oran ve tutar) ve iskonto toplamlari\r\n  musteriye de gorunur (Ayarlar \u003e Teklif Tasarimi\u0027ndan kapatilabilir)\r\n- Otomatik esitleme 30 saniyede bir (herkeste 30 sn\u0027ye ayarlanir)\r\n- Mobil erisim: telefondan goruntuleme, PDF on izleme / paylasma;\r\n  program kapaliyken de calisabilir (arka plan hizmeti)\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.4/TYP_v4.15.4.zip",
-    "sha256":  "8fee71caa931f6b0d9565ae161b6caabca7e28741c23661c6f88090602ba675b"
+    "sha256":  "55bd7d21d43d6f3f5c2120a77a3e1056737ea8727cab03e2491b21a3abce45cb"
 }
