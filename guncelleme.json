@@ -2,5 +2,5 @@
     "surum":  "4.15.4",
     "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Tekliflerde satir iskontosu (oran ve tutar) ve iskonto toplamlari\r\n  musteriye de gorunur (Ayarlar \u003e Teklif Tasarimi\u0027ndan kapatilabilir)\r\n- Otomatik esitleme 30 saniyede bir (herkeste 30 sn\u0027ye ayarlanir)\r\n- Mobil erisim: telefondan goruntuleme, PDF on izleme / paylasma;\r\n  program kapaliyken de calisabilir (arka plan hizmeti)\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.4/TYP_v4.15.4.zip",
-    "sha256":  "55bd7d21d43d6f3f5c2120a77a3e1056737ea8727cab03e2491b21a3abce45cb"
+    "sha256":  "5571eec412327cf113a370294677da76daa1978fd9a39ec9922200d9ed7fed11"
 }
