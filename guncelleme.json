@@ -1,6 +1,6 @@
 {
     "surum":  "4.15.4",
-    "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Mobil erisim: telefondan ozet, cari, stok, teklif, kasa, banka ve\r\n  servis (salt okunur); belgeleri PDF on izleme ve paylasma\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
+    "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Otomatik esitleme 30 saniyede bir (herkeste 30 sn\u0027ye ayarlanir;\r\n  aralik Ayarlar \u003e Veritabani \u0026 Esitleme\u0027den secilir)\r\n- Mobil erisim: telefondan ozet, cari, stok, teklif, kasa, banka ve\r\n  servis (salt okunur); belgeleri PDF on izleme ve paylasma;\r\n  program kapaliyken de calisabilir (arka plan hizmeti)\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.4/TYP_v4.15.4.zip",
-    "sha256":  "4992a03b65dc2d8d42f0df5807708fda5d27d2baa8465eb5c47efc423da6feeb"
+    "sha256":  "8fee71caa931f6b0d9565ae161b6caabca7e28741c23661c6f88090602ba675b"
 }
