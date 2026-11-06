@@ -2,5 +2,5 @@
     "surum":  "4.15.5",
     "notlar":  "v4.15.5 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Urun turune gore otomatik KDV (Ayarlar \u003e Tanimlar \u003e KDV Tanimlari)\r\n- KDV\u0027siz teklif / proforma: \"Fiyatlarimiza KDV dahil degildir\" notu\r\n- Teklif tablosunda sutun gizleme (baslik sag tik) ve cikti yazi renkleri\r\n- Birim N/A secenegi; Listeden Ekle: aciklama / KDV / iskonto tutari,\r\n  tam bos sablon, yanlis urun eklenmesi duzeltildi",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.5/TYP_v4.15.5.zip",
-    "sha256":  "701640d3ad48bf69626a6ea8dcb2b50b54419a6374ee1e3f80cff64da6598870"
+    "sha256":  "f3b24da34e9dfc8406e8450efd9c4410e414d04fb35f7d4e72e1fc78a6a4b9c1"
 }
