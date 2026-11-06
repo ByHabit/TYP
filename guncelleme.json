@@ -1,6 +1,6 @@
 {
-    "surum":  "4.15.4",
-    "notlar":  "v4.15.4 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Tekliflerde satir iskontosu (oran ve tutar) ve iskonto toplamlari\r\n  musteriye de gorunur (Ayarlar \u003e Teklif Tasarimi\u0027ndan kapatilabilir)\r\n- Otomatik esitleme 30 saniyede bir (herkeste 30 sn\u0027ye ayarlanir)\r\n- Mobil erisim: telefondan goruntuleme, PDF on izleme / paylasma;\r\n  program kapaliyken de calisabilir (arka plan hizmeti)\r\n- Teklif numarasi duzeni: on ek / cari kodu / yil / ay / gun\r\n- Listeden urun ekle: musteri Excel / CSV listesi ya da panodan,\r\n  stok eslestirme, bos sablon, yeni stok karti, Excel\u0027e ver",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.4/TYP_v4.15.4.zip",
-    "sha256":  "bf978710347fe895a9c5e931eb2fc0de6296f05f431a831c005929988eb8acba"
+    "surum":  "4.15.5",
+    "notlar":  "v4.15.5 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Urun turune gore otomatik KDV (Ayarlar \u003e Tanimlar \u003e KDV Tanimlari)\r\n- KDV\u0027siz teklif / proforma: \"Fiyatlarimiza KDV dahil degildir\" notu\r\n- Teklif tablosunda sutun gizleme (baslik sag tik) ve cikti yazi renkleri\r\n- Birim N/A secenegi; Listeden Ekle: aciklama / KDV / iskonto tutari,\r\n  tam bos sablon, yanlis urun eklenmesi duzeltildi",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.5/TYP_v4.15.5.zip",
+    "sha256":  "e8539aa46b984aad6c0fe583a5d17c63cf7f62161bfc37965d7b222037c9ace0"
 }
