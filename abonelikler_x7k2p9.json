@@ -1,242 +1,230 @@
 {
-    "abonelikler":  [
-                        {
-                            "musteri":  "KANO DENİZCİLİK",
-                            "baslangic":  "2026-07-21",
-                            "bitis":  "2027-08-21",
-                            "durum":  "aktif",
-                            "anahtarHash":  "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
-                            "telefon":  "0 543 903 37 62",
-                            "not":  "RECEP TUNA KARGI"
-                        },
-                        {
-                            "musteri":  "EMRE PUNAR - EMRE BİLGİSAYAR",
-                            "baslangic":  "2026-07-21",
-                            "bitis":  "2099-12-31",
-                            "durum":  "aktif",
-                            "anahtarHash":  "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
-                            "telefon":  "0 543 288 29 76",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "AF848297"
-                                         ]
-                        },
-                        {
-                            "musteri":  "ONASAN MAKİNA İMALAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
-                            "baslangic":  "2026-07-23",
-                            "bitis":  "2099-12-31",
-                            "durum":  "aktif",
-                            "anahtarHash":  "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
-                            "telefon":  "0 537 513 22 05",
-                            "not":  "ALPCAN AKINTÜRK",
-                            "cihazlar":  [
-                                             "B08E307B"
-                                         ]
-                        },
-                        {
-                            "musteri":  "GÖKSAL AKÇAY",
-                            "baslangic":  "2026-07-25",
-                            "bitis":  "2027-01-25",
-                            "durum":  "aktif",
-                            "anahtarHash":  "0C723773C592D1B1EDA7BA4DD720ECAB0180B425DD1EC3A680E557C98F2075B9",
-                            "telefon":  "0 505 495 42 83",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "97831730"
-                                         ]
-                        },
-                        {
-                            "musteri":  "SERTUHAN ENDÜSTRİYEL HAVALANDIRMA VE İZOLASYON SAN.TİC.A.S.",
-                            "baslangic":  "2026-07-26",
-                            "bitis":  "2027-10-19",
-                            "durum":  "aktif",
-                            "anahtarHash":  "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
-                            "telefon":  "0 539 731 44 36",
-                            "not":  "HARUN KARABAĞ",
-                            "cihazlar":  [
-                                             "5A7120B4",
-                                             "F446D746",
-                                             "5BF5ED84"
-                                         ]
-                        },
-                        {
-                            "musteri":  "RFK MUHENDİSLİK TİC LTD ŞTİ",
-                            "baslangic":  "2026-07-26",
-                            "bitis":  "2027-09-26",
-                            "durum":  "aktif",
-                            "anahtarHash":  "AFC52F84E2F7D47710724637B13804215C11095A8D73AAC741780AA69B66DBAE",
-                            "telefon":  "0 535 765 40 00",
-                            "not":  "TAMER SARI",
-                            "cihazlar":  [
-                                             "32D3DEE3"
-                                         ]
-                        },
-                        {
-                            "musteri":  "ALP37 KURUMSAL TEDARİK",
-                            "baslangic":  "2026-07-26",
-                            "bitis":  "2099-12-31",
-                            "durum":  "aktif",
-                            "anahtarHash":  "FC056E6D89D2C5EE4B44101641484259D90C8FE1552A570218F6D971A1B11C7F",
-                            "telefon":  "0 532 447 00 37",
-                            "not":  "MUHAMMER BEKLEVİÇ",
-                            "cihazlar":  [
-                                             "FEF83300"
-                                         ]
-                        },
-                        {
-                            "musteri":  "KARASU ARZUM KIRTASİYE SAN.TİC. LTD. ŞTİ.",
-                            "baslangic":  "2026-07-26",
-                            "bitis":  "2027-01-26",
-                            "durum":  "aktif",
-                            "anahtarHash":  "CCA4DE3613D5BE3EEFD3728BA0828D9760193313A6C14CC53D7FC9A6DF7DDAA5",
-                            "telefon":  "0 530 828 36 93",
-                            "not":  "MUSTAFA MARANGOZ",
-                            "cihazlar":  [
-                                             "56231237"
-                                         ]
-                        },
-                        {
-                            "musteri":  "MESUT ARSLAN",
-                            "baslangic":  "2026-08-01",
-                            "bitis":  "2028-08-01",
-                            "durum":  "aktif",
-                            "anahtarHash":  "2FACB0B8AB5692A86FF3CFAF0818E52B801C9E2F85D4889B85E3A169BD48290D",
-                            "telefon":  "0 535 418 44 09",
-                            "not":  "AYÇA BAKKAL",
-                            "cihazlar":  [
-                                             "24DED74D",
-                                             "C41F59AF"
-                                         ]
-                        },
-                        {
-                            "musteri":  "RİNG ENERJİ ELEKTRİK İNŞAAT MÜHENDİSLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-                            "baslangic":  "2026-08-11",
-                            "bitis":  "2027-02-11",
-                            "durum":  "aktif",
-                            "anahtarHash":  "53094CD42B63C286D8845FC01EA6CB62AE90FF8B62287EB4D450DC57A0CB7284",
-                            "telefon":  "0 539 210 95 31",
-                            "not":  "ERCAN KARADENİZ",
-                            "cihazlar":  [
-                                             "37B06677"
-                                         ]
-                        },
-                        {
-                            "musteri":  "AYTEKIN GUNEL",
-                            "baslangic":  "2026-08-24",
-                            "bitis":  "2027-09-28",
-                            "durum":  "aktif",
-                            "anahtarHash":  "547EC1F7B60D4B619138A4EC3818BAD2A2E8C6E925EEB3E23FD44E836E619BFF",
-                            "telefon":  "05307887194",
-                            "not":  "PATRON",
-                            "cihazlar":  [
-                                             "FBFF35B3"
-                                         ]
-                        },
-                        {
-                            "musteri":  "Rimenes Denizcilik",
-                            "baslangic":  "2026-08-28",
-                            "bitis":  "2027-04-28",
-                            "durum":  "aktif",
-                            "anahtarHash":  "101DCBB72009C40ED3950612B78C24FBEFDB91407B200D6ECD20A506BD46B1CD",
-                            "telefon":  "",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "43DDCE78",
-                                             "31790BBE"
-                                         ]
-                        },
-                        {
-                            "musteri":  "EMİNE BOZKURT",
-                            "baslangic":  "2026-09-10",
-                            "bitis":  "2027-09-10",
-                            "durum":  "aktif",
-                            "anahtarHash":  "59CC01E1D815BE423095DE591935B21B803B7B2E9F4C0BF5408627799B56806C",
-                            "telefon":  "0 535 861 66 55",
-                            "not":  "MUHASEBE",
-                            "cihazlar":  [
-                                             "F123F27E"
-                                         ]
-                        },
-                        {
-                            "musteri":  "TUZLAM OPTİK",
-                            "baslangic":  "2026-09-24",
-                            "bitis":  "2027-03-24",
-                            "durum":  "aktif",
-                            "anahtarHash":  "46B6FF8AD2C9B1E5D6A8A11249DBD336BC790963F7B71EA6E395D1007DE095EC",
-                            "telefon":  "0 554 387 02 99",
-                            "not":  "SERDAR BEY",
-                            "cihazlar":  [
-                                             "5881426A"
-                                         ]
-                        },
-                        {
-                            "musteri":  "TOK SPOR GIYIM",
-                            "baslangic":  "2026-10-19",
-                            "bitis":  "2027-04-19",
-                            "durum":  "aktif",
-                            "anahtarHash":  "144454B4A881F764E0A50CC97CE0026364A53A3B4583F7C1BADB76CCC0A17C47",
-                            "telefon":  "",
-                            "not":  "TUNCAY TOK",
-                            "cihazlar":  [
-                                             "E4C862B3"
-                                         ]
-                        },
-                        {
-                            "musteri":  "UÇAN TİCARET",
-                            "baslangic":  "2026-10-21",
-                            "bitis":  "2027-02-24",
-                            "durum":  "aktif",
-                            "anahtarHash":  "F47DFB09E7EC2D4E85FC55B6635706335B1D427EFA471938A1A804A208AD4F5C",
-                            "telefon":  "05304623109",
-                            "not":  "NEVZAT UÇAN",
-                            "cihazlar":  [
-                                             "7FA52EF9"
-                                         ]
-                        },
-                        {
-                            "musteri":  "CEM ÖZDEK",
-                            "baslangic":  "2026-10-27",
-                            "bitis":  "2027-01-27",
-                            "durum":  "aktif",
-                            "anahtarHash":  "42B9B37260AC75DA96EE47B0A5EB222FE9C5D0DEB107887E08ED2C1E3DE311E3",
-                            "telefon":  "0 545 582 01 42",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "CCAB0198"
-                                         ]
-                        },
-                        {
-                            "musteri":  "RIMENES DENIZCILIK",
-                            "baslangic":  "2026-10-28",
-                            "bitis":  "2027-10-28",
-                            "durum":  "iptal",
-                            "anahtarHash":  "5EF533D4A5FFD0FA3144C66D530DAED6F7F04F33EC1A0C4DA9466E4116D15B59",
-                            "telefon":  "",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "31790BBE"
-                                         ]
-                        },
-                        {
-                            "musteri":  "BATUHAN ŞENYUVA",
-                            "baslangic":  "2026-10-29",
-                            "bitis":  "2027-10-29",
-                            "durum":  "aktif",
-                            "anahtarHash":  "2AD0641802E9579C45FEDEF6720A752298D8CC4C55BF1D4F4B3CC8A1D61C57F8",
-                            "telefon":  "",
-                            "not":  "",
-                            "cihazlar":  [
-                                             "96A12564"
-                                         ]
-                        },
-                        {
-                            "musteri":  "Tuna Gemi İkmal Sanayi ve Ticaret Limited Şirketi",
-                            "baslangic":  "2026-11-02",
-                            "bitis":  "2027-05-02",
-                            "durum":  "aktif",
-                            "anahtarHash":  "68C531F36C7E67F09FE1E09F3680A7A48E6648ED590B174FF99789170DECC505",
-                            "telefon":  "",
-                            "not":  ""
-                        }
-                    ]
+  "abonelikler": [
+    {
+      "musteri": "KANO DENİZCİLİK",
+      "baslangic": "2026-07-21",
+      "bitis": "2027-08-21",
+      "durum": "aktif",
+      "anahtarHash": "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
+      "telefon": "0 543 903 37 62",
+      "not": "RECEP TUNA KARGI"
+    },
+    {
+      "musteri": "EMRE PUNAR - EMRE BİLGİSAYAR",
+      "baslangic": "2026-07-21",
+      "bitis": "2099-12-31",
+      "durum": "aktif",
+      "anahtarHash": "C4D97826E14E7C2EF14965E39967C1C8C09BAEEC4B642C179FC7F3B2096D3ACD",
+      "telefon": "0 543 288 29 76",
+      "not": "",
+      "cihazlar": [
+        "AF848297"
+      ]
+    },
+    {
+      "musteri": "ONASAN MAKİNA İMALAT SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "baslangic": "2026-07-23",
+      "bitis": "2099-12-31",
+      "durum": "aktif",
+      "anahtarHash": "CF374132ACF8B6A916FDDA794EFAF70D8170A40DBE4E10C67588F2AA9974E01A",
+      "telefon": "0 537 513 22 05",
+      "not": "ALPCAN AKINTÜRK",
+      "cihazlar": [
+        "B08E307B"
+      ]
+    },
+    {
+      "musteri": "GÖKSAL AKÇAY",
+      "baslangic": "2026-07-25",
+      "bitis": "2027-01-25",
+      "durum": "aktif",
+      "anahtarHash": "0C723773C592D1B1EDA7BA4DD720ECAB0180B425DD1EC3A680E557C98F2075B9",
+      "telefon": "0 505 495 42 83",
+      "not": "",
+      "cihazlar": [
+        "97831730"
+      ]
+    },
+    {
+      "musteri": "SERTUHAN ENDÜSTRİYEL HAVALANDIRMA VE İZOLASYON SAN.TİC.A.S.",
+      "baslangic": "2026-07-26",
+      "bitis": "2027-10-19",
+      "durum": "aktif",
+      "anahtarHash": "15845DD52E833B8DAAE41216A3E355728A2B7B8EEBF8E17E994E5EA4383465E8",
+      "telefon": "0 539 731 44 36",
+      "not": "HARUN KARABAĞ",
+      "cihazlar": [
+        "5A7120B4",
+        "F446D746",
+        "5BF5ED84"
+      ]
+    },
+    {
+      "musteri": "RFK MUHENDİSLİK TİC LTD ŞTİ",
+      "baslangic": "2026-07-26",
+      "bitis": "2027-09-26",
+      "durum": "aktif",
+      "anahtarHash": "AFC52F84E2F7D47710724637B13804215C11095A8D73AAC741780AA69B66DBAE",
+      "telefon": "0 535 765 40 00",
+      "not": "TAMER SARI",
+      "cihazlar": [
+        "32D3DEE3"
+      ]
+    },
+    {
+      "musteri": "ALP37 KURUMSAL TEDARİK",
+      "baslangic": "2026-07-26",
+      "bitis": "2099-12-31",
+      "durum": "aktif",
+      "anahtarHash": "FC056E6D89D2C5EE4B44101641484259D90C8FE1552A570218F6D971A1B11C7F",
+      "telefon": "0 532 447 00 37",
+      "not": "MUHAMMER BEKLEVİÇ",
+      "cihazlar": [
+        "FEF83300"
+      ]
+    },
+    {
+      "musteri": "KARASU ARZUM KIRTASİYE SAN.TİC. LTD. ŞTİ.",
+      "baslangic": "2026-07-26",
+      "bitis": "2027-01-26",
+      "durum": "aktif",
+      "anahtarHash": "CCA4DE3613D5BE3EEFD3728BA0828D9760193313A6C14CC53D7FC9A6DF7DDAA5",
+      "telefon": "0 530 828 36 93",
+      "not": "MUSTAFA MARANGOZ",
+      "cihazlar": [
+        "56231237"
+      ]
+    },
+    {
+      "musteri": "MESUT ARSLAN",
+      "baslangic": "2026-08-01",
+      "bitis": "2028-08-01",
+      "durum": "aktif",
+      "anahtarHash": "2FACB0B8AB5692A86FF3CFAF0818E52B801C9E2F85D4889B85E3A169BD48290D",
+      "telefon": "0 535 418 44 09",
+      "not": "AYÇA BAKKAL",
+      "cihazlar": [
+        "24DED74D",
+        "C41F59AF"
+      ]
+    },
+    {
+      "musteri": "RİNG ENERJİ ELEKTRİK İNŞAAT MÜHENDİSLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+      "baslangic": "2026-08-11",
+      "bitis": "2027-02-11",
+      "durum": "aktif",
+      "anahtarHash": "53094CD42B63C286D8845FC01EA6CB62AE90FF8B62287EB4D450DC57A0CB7284",
+      "telefon": "0 539 210 95 31",
+      "not": "ERCAN KARADENİZ",
+      "cihazlar": [
+        "37B06677"
+      ]
+    },
+    {
+      "musteri": "AYTEKIN GUNEL",
+      "baslangic": "2026-08-24",
+      "bitis": "2027-09-28",
+      "durum": "aktif",
+      "anahtarHash": "547EC1F7B60D4B619138A4EC3818BAD2A2E8C6E925EEB3E23FD44E836E619BFF",
+      "telefon": "05307887194",
+      "not": "PATRON",
+      "cihazlar": [
+        "FBFF35B3"
+      ]
+    },
+    {
+      "musteri": "Rimenes Denizcilik",
+      "baslangic": "2026-08-28",
+      "bitis": "2027-04-28",
+      "durum": "aktif",
+      "anahtarHash": "101DCBB72009C40ED3950612B78C24FBEFDB91407B200D6ECD20A506BD46B1CD",
+      "telefon": "",
+      "not": "",
+      "cihazlar": [
+        "43DDCE78",
+        "31790BBE"
+      ]
+    },
+    {
+      "musteri": "EMİNE BOZKURT",
+      "baslangic": "2026-09-10",
+      "bitis": "2027-09-10",
+      "durum": "aktif",
+      "anahtarHash": "59CC01E1D815BE423095DE591935B21B803B7B2E9F4C0BF5408627799B56806C",
+      "telefon": "0 535 861 66 55",
+      "not": "MUHASEBE",
+      "cihazlar": [
+        "F123F27E"
+      ]
+    },
+    {
+      "musteri": "TUZLAM OPTİK",
+      "baslangic": "2026-09-24",
+      "bitis": "2027-03-24",
+      "durum": "aktif",
+      "anahtarHash": "46B6FF8AD2C9B1E5D6A8A11249DBD336BC790963F7B71EA6E395D1007DE095EC",
+      "telefon": "0 554 387 02 99",
+      "not": "SERDAR BEY",
+      "cihazlar": [
+        "5881426A"
+      ]
+    },
+    {
+      "musteri": "TOK SPOR GIYIM",
+      "baslangic": "2026-10-19",
+      "bitis": "2027-04-19",
+      "durum": "aktif",
+      "anahtarHash": "144454B4A881F764E0A50CC97CE0026364A53A3B4583F7C1BADB76CCC0A17C47",
+      "telefon": "",
+      "not": "TUNCAY TOK",
+      "cihazlar": [
+        "E4C862B3"
+      ]
+    },
+    {
+      "musteri": "UÇAN TİCARET",
+      "baslangic": "2026-10-21",
+      "bitis": "2027-02-24",
+      "durum": "aktif",
+      "anahtarHash": "F47DFB09E7EC2D4E85FC55B6635706335B1D427EFA471938A1A804A208AD4F5C",
+      "telefon": "05304623109",
+      "not": "NEVZAT UÇAN",
+      "cihazlar": [
+        "7FA52EF9"
+      ]
+    },
+    {
+      "musteri": "CEM ÖZDEK",
+      "baslangic": "2026-10-27",
+      "bitis": "2027-01-27",
+      "durum": "aktif",
+      "anahtarHash": "42B9B37260AC75DA96EE47B0A5EB222FE9C5D0DEB107887E08ED2C1E3DE311E3",
+      "telefon": "0 545 582 01 42",
+      "not": "",
+      "cihazlar": [
+        "CCAB0198"
+      ]
+    },
+    {
+      "musteri": "BATUHAN ŞENYUVA",
+      "baslangic": "2026-10-29",
+      "bitis": "2027-10-29",
+      "durum": "aktif",
+      "anahtarHash": "2AD0641802E9579C45FEDEF6720A752298D8CC4C55BF1D4F4B3CC8A1D61C57F8",
+      "telefon": "",
+      "not": "",
+      "cihazlar": [
+        "96A12564"
+      ]
+    },
+    {
+      "musteri": "Tuna Gemi İkmal Sanayi ve Ticaret Limited Şirketi",
+      "baslangic": "2026-11-02",
+      "bitis": "2027-05-02",
+      "durum": "aktif",
+      "anahtarHash": "68C531F36C7E67F09FE1E09F3680A7A48E6648ED590B174FF99789170DECC505",
+      "telefon": "",
+      "not": ""
+    }
+  ]
 }
