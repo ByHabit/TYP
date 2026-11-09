@@ -7,7 +7,15 @@
       "durum": "aktif",
       "anahtarHash": "1C340B20915E5A7743AAB46AD805913963C644755ADC5A39556092521EE45EE6",
       "telefon": "0 543 903 37 62",
-      "not": "RECEP TUNA KARGI"
+      "not": "RECEP TUNA KARGI",
+      "cihazlar": [
+        "60BAA000",
+        "8F1A37D9",
+        "A604A26A",
+        "FE4F56C8",
+        "28592704",
+        "83B8E511"
+      ]
     },
     {
       "musteri": "EMRE PUNAR - EMRE BİLGİSAYAR",
