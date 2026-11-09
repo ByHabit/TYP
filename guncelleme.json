@@ -1,6 +1,6 @@
 {
-    "surum":  "4.15.5",
-    "notlar":  "v4.15.5 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- Urun turune gore otomatik KDV (Ayarlar \u003e Tanimlar \u003e KDV Tanimlari)\r\n- KDV\u0027siz teklif / proforma: \"Fiyatlarimiza KDV dahil degildir\" notu\r\n- Teklif tablosunda sutun gizleme (baslik sag tik) ve cikti yazi renkleri\r\n- Birim N/A secenegi; Listeden Ekle: aciklama / KDV / iskonto tutari,\r\n  tam bos sablon, yanlis urun eklenmesi duzeltildi",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.5/TYP_v4.15.5.zip",
-    "sha256":  "f3b24da34e9dfc8406e8450efd9c4410e414d04fb35f7d4e72e1fc78a6a4b9c1"
+    "surum":  "4.15.6",
+    "notlar":  "v4.15.6 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: coklu bilgisayarda fiyatlarin farkli gorunmesi\r\n  (esitleme yapan TUM bilgisayarlari guncelleyin)\r\n- DUZELTME: ag yolu yuzunden programin donmasi\r\n- Stok kartinda KDV orani, \"KDV Ata\" ile toplu KDV\r\n- Internetten mobil erisim (Cloudflare Tunel) + Kurulum Kilavuzu\r\n- Esitleme kesinti gunlugu",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.6/TYP_v4.15.6.zip",
+    "sha256":  "2ed965ac0bcaf15f3d755bf7e1ddab75e3a8e66fb7ae605b9f8d3e60b55dfd7c"
 }
