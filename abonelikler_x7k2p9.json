@@ -224,7 +224,16 @@
       "durum": "aktif",
       "anahtarHash": "68C531F36C7E67F09FE1E09F3680A7A48E6648ED590B174FF99789170DECC505",
       "telefon": "",
-      "not": ""
+      "not": "",
+      "cihazlar": [
+        "D6325ACF",
+        "27E6BCAD",
+        "4FD58A07",
+        "38CE2893",
+        "D23D2A29",
+        "C2CF8FC3",
+        "8D5E229C"
+      ]
     }
   ]
 }
