@@ -334,7 +334,7 @@ function yayinKaydi(k, mod) {
   y.baslangic = String(k.baslangic || ''); y.bitis = String(k.bitis || '');
   y.durum = String(k.durum == null ? 'aktif' : k.durum); y.anahtarHash = String(k.anahtarHash || '');
   if (mod === 'tam') { y.telefon = String(k.telefon || ''); y.not = String(k.not || ''); }
-  if (Array.isArray(k.cihazlar)) y.cihazlar = k.cihazlar.map(String);
+  if (Array.isArray(k.cihazlar) && k.cihazlar.length) y.cihazlar = k.cihazlar.map(String);   // bos liste = alan yok (masaustuyle ayni)
   return y;
 }
 // "bugün 14:20" / "dün 09:05" / "3 gün önce 10:00"
@@ -360,7 +360,7 @@ function telNorm(t) {          // WhatsApp için ulusal numara
 /* ============================ /ÇEKİRDEK ============================= */
 
 /* ============================ DURUM VE AYAR ========================= */
-const YAPI = '2026-11-10.1';     // menüde görünür; telefondaki sayfanın güncel olup olmadığını anlamak için
+const YAPI = '2026-11-10.2';     // menüde görünür; telefondaki sayfanın güncel olup olmadığını anlamak için
 const LS = { cfg: 'tys.cfg', taslak: 'tys.taslak', defter: 'tys.defterYerel', gecmis: 'tys.gecmis', etiket: 'tys.etiketYerel', payLink: 'tys.paylasLink' };
 const CFG0 = { owner: '', repo: '', branch: 'main', path: 'abonelikler_x7k2p9.json', token: '', salt: '', mod: '',
   dOwner: '', dRepo: '', dBranch: 'main', dPath: 'musteri_defteri.json', usageUrl: '', usageKey: '',
@@ -459,7 +459,7 @@ function defterMetni() {
     if (S.keys[h]) o.anahtar = S.keys[h];
     if (Object.keys(o).length) kayitlar[h] = o;
   }
-  return JSON.stringify({ surum: 1, yayinModu: etkinMod(), aciklama: "I TECH IN lisans araci - YEREL musteri defteri. Bu dosyayi herkese acik depoya YUKLEMEYIN.", kayitlar }, null, 2);
+  return JSON.stringify({ surum: 1, yayinModu: etkinMod(), aciklama: "I TECH IN lisans araci - YEREL musteri defteri. Bu dosyayi GitHub'a YUKLEMEYIN.", kayitlar }, null, 2);
 }
 function manifestMetni() {
   return JSON.stringify({ abonelikler: S.list.map(k => yayinKaydi(k, etkinMod())) }, null, 2);
