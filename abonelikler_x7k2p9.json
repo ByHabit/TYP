@@ -241,6 +241,18 @@
         "C2CF8FC3",
         "8D5E229C"
       ]
+    },
+    {
+      "musteri": "Özcan iletişim",
+      "baslangic": "2026-11-13",
+      "bitis": "2027-11-13",
+      "durum": "aktif",
+      "anahtarHash": "F7578627C87F8AD2D096B03CDED2E55A1A04D8C83A463B44251311977959E047",
+      "telefon": "05324676048",
+      "not": "İrfan özcan",
+      "cihazlar": [
+        "1D174FBF"
+      ]
     }
   ]
 }
