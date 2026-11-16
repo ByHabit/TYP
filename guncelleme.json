@@ -2,5 +2,5 @@
     "surum":  "4.16.1",
     "notlar":  "v4.16.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: para toplamlarinda kurus yuvarlamasi (kapanmis cari\r\n  hesapta kucuk artik gorunmesi onlendi)\r\n- DUZELTME: tarih okuma/yazma bolge ayarindan bagimsiz\r\n- Yedekleme guvenli yontemle; ayni diskteyse uyari\r\n- Esitleme: ana bilgisayar / terminal saat farki uyarisi\r\n- Guncelleme paketinde SHA-256 kontrolu zorunlu\r\n- Veri katmaninda yutulan hatalar gunluge yaziliyor",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.1/TYP_v4.16.1.zip",
-    "sha256":  "bb0c5f6226d8bb0c6fa4ba3f3b3bfc5b0aef755a827ae2b1c846dd2d446d4565"
+    "sha256":  "8cb74c0718b602b85ab40dc904e4cead450002899ff368f185250b746e9e603a"
 }
