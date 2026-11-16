@@ -1,6 +1,6 @@
 {
-    "surum":  "4.16.0",
-    "notlar":  "v4.16.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- LISANS: program artik lisans yuzunden kilitlenmez; acilista\r\n  uyari yok; durum renkli (yesil / sari / turuncu / kirmizi)\r\n- Lisansiz urun salt okunur calisir (yeni kayit, guncelleme yok)\r\n- DUZELTME: Windows 24 gunden uzun acik kalinca dugmelerin\r\n  tepki vermemesi (ilk cozum: Windows\u0027u Yeniden Baslat)\r\n- Dokunmatik ekran iyilestirmesi ve gunluk tani bilgisi",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.0/TYP_v4.16.0.zip",
-    "sha256":  "778bd5d572ef83d9f9b5821f83f675b852cede876aff0688cc0c100b7b498fc0"
+    "surum":  "4.16.1",
+    "notlar":  "v4.16.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: para toplamlarinda kurus yuvarlamasi (kapanmis cari\r\n  hesapta kucuk artik gorunmesi onlendi)\r\n- DUZELTME: tarih okuma/yazma bolge ayarindan bagimsiz\r\n- Yedekleme guvenli yontemle; ayni diskteyse uyari\r\n- Esitleme: ana bilgisayar / terminal saat farki uyarisi\r\n- Guncelleme paketinde SHA-256 kontrolu zorunlu\r\n- Veri katmaninda yutulan hatalar gunluge yaziliyor",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.1/TYP_v4.16.1.zip",
+    "sha256":  "bb0c5f6226d8bb0c6fa4ba3f3b3bfc5b0aef755a827ae2b1c846dd2d446d4565"
 }
