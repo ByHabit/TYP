@@ -2,5 +2,5 @@
     "surum":  "4.16.1",
     "notlar":  "v4.16.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: para toplamlarinda kurus yuvarlamasi (kapanmis cari\r\n  hesapta kucuk artik gorunmesi onlendi)\r\n- DUZELTME: tarih okuma/yazma bolge ayarindan bagimsiz\r\n- Yedekleme guvenli yontemle; ayni diskteyse uyari\r\n- Esitleme: ana bilgisayar / terminal saat farki uyarisi\r\n- Guncelleme paketinde SHA-256 kontrolu zorunlu\r\n- Veri katmaninda yutulan hatalar gunluge yaziliyor\r\n- Yeni kurulumda Hizli Satis kapali; ornek cariler ve\r\n  ornek teklif hazir gelir (Aytek Bilisim carisi dahil)\r\n- Ayarlar \u003e Loglar: \"Destek Paketi Olustur\" (sorun bildirimi icin)\r\n- Yedek alininca dogrulama sonucu ekranda gosterilir\r\n- Lisans sifirlama deneme suresini yeniden baslatmaz",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.1/TYP_v4.16.1.zip",
-    "sha256":  "d87ae34d8301484599513f6b189e2021faec84a89a4a606fcd09039e63550281"
+    "sha256":  "16b170cb5b58f09ebcd87fa508cbe8ecf078ae678ca6a11c4a9913276248d202"
 }
