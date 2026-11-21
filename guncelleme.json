@@ -1,6 +1,6 @@
 {
-    "surum":  "4.16.1",
-    "notlar":  "v4.16.1 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: para toplamlarinda kurus yuvarlamasi (kapanmis cari\r\n  hesapta kucuk artik gorunmesi onlendi)\r\n- DUZELTME: tarih okuma/yazma bolge ayarindan bagimsiz\r\n- Yedekleme guvenli yontemle; ayni diskteyse uyari\r\n- Esitleme: ana bilgisayar / terminal saat farki uyarisi\r\n- Guncelleme paketinde SHA-256 kontrolu zorunlu\r\n- Veri katmaninda yutulan hatalar gunluge yaziliyor\r\n- Yeni kurulumda Hizli Satis kapali; ornek cariler ve\r\n  ornek teklif hazir gelir (Aytek Bilisim carisi dahil)\r\n- Ayarlar \u003e Loglar: \"Destek Paketi Olustur\" (sorun bildirimi icin)\r\n- Yedek alininca dogrulama sonucu ekranda gosterilir\r\n- Lisans sifirlama deneme suresini yeniden baslatmaz",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.1/TYP_v4.16.1.zip",
-    "sha256":  "16b170cb5b58f09ebcd87fa508cbe8ecf078ae678ca6a11c4a9913276248d202"
+    "surum":  "4.16.2",
+    "notlar":  "v4.16.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Terimler - menu ve ekran adlarini firmaya gore degistirme\r\n  (Cari, Musteri, Teklif, Stok, Servis, Personel vb.); sag tik \u003e\r\n  \"Yeniden adlandir\" veya Ayarlar \u003e Sektor Terimleri\r\n- YENI: Sektor sablonlari (Armator, Klinik, Oto, Insaat, Okul,\r\n  Surucu Kursu, Buro, Ticaret, Bilisim); istege bagli belge\r\n  ciktilarinda kullanma secenegi\r\n- Terim degisince paneller aninda yenilenir\r\n- Ana ekranda esitleme durum yazisi artik sigar",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.2/TYP_v4.16.2.zip",
+    "sha256":  "bd6bed2c41b3073d03a2805408545840e5ea2b28f6d7994838fc0b445253d2c4"
 }
