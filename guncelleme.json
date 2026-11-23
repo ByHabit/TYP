@@ -1,6 +1,6 @@
 {
-    "surum":  "4.16.2",
-    "notlar":  "v4.16.2 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Terimler - menu ve ekran adlarini firmaya gore degistirme\r\n  (Cari, Musteri, Teklif, Stok, Servis, Personel vb.); sag tik \u003e\r\n  \"Yeniden adlandir\" veya Ayarlar \u003e Sektor Terimleri\r\n- YENI: Sektor sablonlari (Armator, Klinik, Oto, Insaat, Okul,\r\n  Surucu Kursu, Buro, Ticaret, Bilisim); istege bagli belge\r\n  ciktilarinda kullanma secenegi\r\n- Terim degisince paneller aninda yenilenir\r\n- Ana ekranda esitleme durum yazisi artik sigar",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.2/TYP_v4.16.2.zip",
-    "sha256":  "7b358f80b56acc8a571071d551fbc479484d7b2f635d120c560300619cb01621"
+    "surum":  "4.16.3",
+    "notlar":  "v4.16.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Terminal \"Ana Bilgisayari Bul\": agdaki ana bilgisayari\r\n  kendisi bulur (IP bilmeye gerek yok); 6 haneli ESLESME KODU ile\r\n  baglanir. Baglanti anahtari ekrandan kalkti\r\n- YENI: Stoktan urun secerken coklu secim (kutucuk, Ctrl / Shift,\r\n  Ctrl+A); teklif, proforma, cari ve servis icin\r\n- Eslesme kodu 5 yanlis denemede kisa sure kilitlenir",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.3/TYP_v4.16.3.zip",
+    "sha256":  "a0e4068acd30cb98d226962b5db10b272b258111da70fef7a77430b2c0a17c8a"
 }
