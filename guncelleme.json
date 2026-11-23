@@ -2,5 +2,5 @@
     "surum":  "4.16.3",
     "notlar":  "v4.16.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Terminal \"Ana Bilgisayari Bul\": agdaki ana bilgisayari\r\n  kendisi bulur (IP bilmeye gerek yok); 6 haneli ESLESME KODU ile\r\n  baglanir. Baglanti anahtari ekrandan kalkti\r\n- YENI: Stoktan urun secerken coklu secim (kutucuk, Ctrl / Shift,\r\n  Ctrl+A); teklif, proforma, cari ve servis icin\r\n- Eslesme kodu 5 yanlis denemede kisa sure kilitlenir",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.3/TYP_v4.16.3.zip",
-    "sha256":  "a0e4068acd30cb98d226962b5db10b272b258111da70fef7a77430b2c0a17c8a"
+    "sha256":  "89dbedeae9413fc26ac6eee02b3d0b7561902f333a0d2bd08bc25de0dfeb2983"
 }
