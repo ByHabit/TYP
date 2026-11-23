@@ -2,5 +2,5 @@
     "surum":  "4.16.3",
     "notlar":  "v4.16.3 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- YENI: Terminal \"Ana Bilgisayari Bul\": agdaki ana bilgisayari\r\n  kendisi bulur (IP bilmeye gerek yok); 6 haneli ESLESME KODU ile\r\n  baglanir. Baglanti anahtari ekrandan kalkti\r\n- YENI: Urun secici yenilendi: tikla-sec, sagda Secilenler sepeti\r\n  (urun basina miktar, Secimleri Temizle), kategori ve stok suzgeci,\r\n  barkod okutunca sepete ekler; teklif, proforma, cari ve servis icin\r\n- Cariye stoktan urun eklerken ara pencere kalkti; carinin fiyat\r\n  listesi ve sepette birim fiyat degistirme\r\n- YENI: Kasa Islemi penceresi yeniden tasarlandi; kasada birden\r\n  fazla urun stoktan satilabilir\r\n- Eslesme kodu 5 yanlis denemede kisa sure kilitlenir",
     "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.3/TYP_v4.16.3.zip",
-    "sha256":  "e9aefa0a5ed239e39ca3bc5815033d1b0517443fb353e5f934229b88dbf26594"
+    "sha256":  "722e7d00accdb4f6ceece51cb4db363d6bd618ae1e1d9d8185a2bf0f761691d5"
 }
