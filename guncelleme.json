@@ -1,6 +1,6 @@
 {
-    "surum":  "4.15.6",
-    "notlar":  "v4.15.6 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- DUZELTME: coklu bilgisayarda fiyatlarin farkli gorunmesi\r\n  (esitleme yapan TUM bilgisayarlari guncelleyin)\r\n- DUZELTME: ag yolu yuzunden programin donmasi\r\n- Stok kartinda KDV orani, \"KDV Ata\" ile toplu KDV\r\n- Internetten mobil erisim (Cloudflare Tunel) + Kurulum Kilavuzu\r\n- Esitleme kesinti gunlugu",
-    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.15.6/TYP_v4.15.6.zip",
-    "sha256":  "2ed965ac0bcaf15f3d755bf7e1ddab75e3a8e66fb7ae605b9f8d3e60b55dfd7c"
+    "surum":  "4.16.0",
+    "notlar":  "v4.16.0 - Ayrintili liste icin: Ayarlar \u003e Surum Notlari\r\n\r\n- LISANS: program artik lisans yuzunden kilitlenmez; acilista\r\n  uyari yok; durum renkli (yesil / sari / turuncu / kirmizi)\r\n- Lisansiz urun salt okunur calisir (yeni kayit, guncelleme yok)\r\n- DUZELTME: Windows 24 gunden uzun acik kalinca dugmelerin\r\n  tepki vermemesi (ilk cozum: Windows\u0027u Yeniden Baslat)\r\n- Dokunmatik ekran iyilestirmesi ve gunluk tani bilgisi",
+    "indirmeUrl":  "https://github.com/ByHabit/TYP/releases/download/v4.16.0/TYP_v4.16.0.zip",
+    "sha256":  "ae99c89331c00106e02c21c7b066e43aa7f7bdc76094911909fa8578db2d5649"
 }
